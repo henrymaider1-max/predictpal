@@ -26,35 +26,35 @@ jobs:
           git config user.name "predictpal-bot"
           git config user.email "bot@predictpal"
 
-      # ── Round 1 of 3 ──────────────────────────────────────────
+      # ── Round 1 of 3 ──────────────────────────────────────────────────────────
       - name: Fetch round 1
         run: python scripts/fetch_markets.py
 
       - name: Commit round 1
         run: |
           git add data/
-          git diff --cached --quiet || git commit -m "chore: market data round 1" && git push
+          git diff --cached --quiet || (git commit -m "chore: market data round 1" && git pull --rebase origin main && git push)
 
       - name: Wait 2 minutes
         run: sleep 120
 
-      # ── Round 2 of 3 ──────────────────────────────────────────
+      # ── Round 2 of 3 ──────────────────────────────────────────────────────────
       - name: Fetch round 2
         run: python scripts/fetch_markets.py
 
       - name: Commit round 2
         run: |
           git add data/
-          git diff --cached --quiet || git commit -m "chore: market data round 2" && git push
+          git diff --cached --quiet || (git commit -m "chore: market data round 2" && git pull --rebase origin main && git push)
 
       - name: Wait 2 more minutes
         run: sleep 120
 
-      # ── Round 3 of 3 ──────────────────────────────────────────
+      # ── Round 3 of 3 ──────────────────────────────────────────────────────────
       - name: Fetch round 3
         run: python scripts/fetch_markets.py
 
       - name: Commit round 3
         run: |
           git add data/
-          git diff --cached --quiet || git commit -m "chore: market data round 3" && git push
+          git diff --cached --quiet || (git commit -m "chore: market data round 3" && git pull --rebase origin main && git push)
