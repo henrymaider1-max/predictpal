@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -19,14 +21,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Configure git
+        run: |
+          git config user.name "predictpal-bot"
+          git config user.email "bot@predictpal"
+
       # ── Round 1 of 3 ──────────────────────────────────────────
       - name: Fetch round 1
         run: python scripts/fetch_markets.py
 
       - name: Commit round 1
         run: |
-          git config user.name "predictpal-bot"
-          git config user.email "bot@predictpal"
           git add data/
           git diff --cached --quiet || git commit -m "chore: market data round 1" && git push
 
@@ -39,7 +44,6 @@ jobs:
 
       - name: Commit round 2
         run: |
-          git pull --rebase
           git add data/
           git diff --cached --quiet || git commit -m "chore: market data round 2" && git push
 
@@ -52,6 +56,5 @@ jobs:
 
       - name: Commit round 3
         run: |
-          git pull --rebase
           git add data/
           git diff --cached --quiet || git commit -m "chore: market data round 3" && git push
