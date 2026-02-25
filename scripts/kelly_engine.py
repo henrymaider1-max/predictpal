@@ -3,18 +3,20 @@ PredictPal Kelly Criterion Paper Trading Engine
 Scans markets, finds edge, sizes bets using Half-Kelly, logs paper trades.
 """
 import json, math, os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 BANKROLL_FILE = "data/bankroll.json"
 TRADES_FILE   = "data/trades.json"
 MARKETS_FILE  = "data/markets.json"
-NOW = datetime.now(timezone.utc).isoformat()
+NOW_DT = datetime.now(timezone.utc)
+NOW = NOW_DT.isoformat()
 
+# --- Aggressive Settings ---
 STARTING_BANKROLL = 100_000.0
-MIN_EDGE          = 0.03   # minimum edge to place a trade (3%)
-MAX_TRADE_PCT     = 0.05   # never risk more than 5% of bankroll
-KELLY_FRACTION    = 0.5    # Half-Kelly for safety
-MAX_OPEN_TRADES   = 20     # cap simultaneous open positions
+MIN_EDGE          = 0.02   # Lowered to 2% for more activity
+MAX_TRADE_PCT     = 0.08   # Increased to 8% (was 5%)
+KELLY_FRACTION    = 0.6    # Increased to 0.6-Kelly (was 0.5)
+MAX_OPEN_TRADES   = 40     # Doubled position limit (was 20)
 
 # ── Load / initialise bankroll ──────────────────────────────────────────────
 def load_bankroll():
@@ -29,7 +31,6 @@ def save_bankroll(br):
     with open(BANKROLL_FILE, "w") as f:
         json.dump(br, f, indent=2)
 
-# ── Load trade history ─────────────────────────────────────────────────────────────
 def load_trades():
     if os.path.exists(TRADES_FILE):
         with open(TRADES_FILE) as f:
@@ -42,27 +43,18 @@ def save_trades(t):
 
 # ── AI probability estimator ────────────────────────────────────────────────────────
 def estimate_true_prob(market, all_markets):
-    """
-    Multi-signal probability estimator:
-    1. Start with the market price.
-    2. Apply a mean-reversion nudge for very thin or very extreme markets.
-    3. Cross-platform consensus: if another platform prices the same event
-       differently, weight toward the higher-volume platform.
-    4. Volume confidence: low volume -> nudge toward 50%.
-    """
     base = market["prob_yes"]
     volume = market.get("volume", 0) or 0
     platform = market["platform"]
+    category = (market.get("category") or "general").lower()
     title_words = set(market["title"].lower().split())
 
     # --- Signal 1: cross-platform consensus ---
     peer_probs = []
     peer_vols  = []
     for m in all_markets:
-        if m["id"] == market["id"]:
-            continue
-        if m["platform"] == platform:
-            continue
+        if m["id"] == market["id"]: continue
+        if m["platform"] == platform: continue
         other_words = set(m["title"].lower().split())
         overlap = len(title_words & other_words) / max(len(title_words | other_words), 1)
         if overlap >= 0.55:
@@ -76,96 +68,88 @@ def estimate_true_prob(market, all_markets):
         peer_avg = sum(p * v for p, v in zip(peer_probs, peer_vols)) / max(sum(peer_vols), 1)
         base = our_weight * base + peer_weight * peer_avg
 
-    # --- Signal 2: volume confidence ---
-    if volume < 500:
-        # Very thin market -> nudge 15% toward 50%
-        base = base * 0.85 + 0.5 * 0.15
-    elif volume < 5000:
-        # Moderate volume -> nudge 5% toward 50%
-        base = base * 0.95 + 0.5 * 0.05
-
-    # --- Signal 3: extreme probability correction ---
-    # Markets priced >97% or <3% are often overconfident
-    if base > 0.97:
-        base = 0.97
-    elif base < 0.03:
-        base = 0.03
+    # --- Signal 2: Aggressive Nudge for Preferred Categories ---
+    # We prefer Sports, Politics, and Markets
+    active_cats = ['sports', 'nba', 'nfl', 'mlb', 'politics', 'crypto', 'stocks', 'finance']
+    is_preferred = any(c in category for c in active_cats)
+    
+    if volume < 2000:
+        nudge = 0.20 if is_preferred else 0.10
+        base = base * (1 - nudge) + 0.5 * nudge
 
     return round(base, 4)
 
 # ── Kelly bet sizing ───────────────────────────────────────────────────────────────────
 def kelly_size(bankroll, true_prob, market_prob, side="YES"):
-    """
-    Kelly formula: f = (p*b - q) / b
-    b = net odds (payout per $1 risked)
-    Returns dollar amount to bet.
-    """
     if side == "YES":
-        p = true_prob
-        q = 1 - p
-        b = (1 - market_prob) / max(market_prob, 0.001)
+        p, b = true_prob, (1 - market_prob) / max(market_prob, 0.001)
     else:
-        p = 1 - true_prob
-        q = 1 - p
-        b = market_prob / max(1 - market_prob, 0.001)
-
+        p, b = 1 - true_prob, market_prob / max(1 - market_prob, 0.001)
+    
+    q = 1 - p
     kelly_f = (p * b - q) / b
-    if kelly_f <= 0:
-        return 0.0
-    fractional = kelly_f * KELLY_FRACTION
-    capped = min(fractional, MAX_TRADE_PCT)
-    return round(bankroll * capped, 2)
+    if kelly_f <= 0: return 0.0
+    return round(bankroll * min(kelly_f * KELLY_FRACTION, MAX_TRADE_PCT), 2)
 
 # ── Main trading loop ──────────────────────────────────────────────────────────────────
 def run_engine():
-    if not os.path.exists(MARKETS_FILE):
-        print("No markets data found. Run fetch_markets.py first.")
-        return
-
-    with open(MARKETS_FILE) as f:
-        mdata = json.load(f)
+    if not os.path.exists(MARKETS_FILE): return
+    with open(MARKETS_FILE) as f: mdata = json.load(f)
 
     all_markets = mdata["markets"]
     bankroll_data = load_bankroll()
     trades_data   = load_trades()
     balance = bankroll_data["balance"]
     new_trades = 0
-
-    # De-duplicate market IDs already in open trades
     open_ids = {t["market_id"] for t in trades_data["trades"] if t["status"] == "open"}
 
-    # Sort markets by volume descending (most liquid first)
-    sorted_markets = sorted(all_markets, key=lambda m: m.get("volume", 0) or 0, reverse=True)
+    # --- Aggressive Prioritization ---
+    def market_score(m):
+        score = 0
+        # 1. Prefer short-term markets (closes in 12-48 hours)
+        end_str = m.get("end_date")
+        if end_str:
+            try:
+                # Handle various formats (ISO, Polymarket, etc)
+                clean_end = end_str.replace('Z', '+00:00')
+                end_dt = datetime.fromisoformat(clean_end)
+                hours_left = (end_dt - NOW_DT).total_seconds() / 3600
+                if 0 < hours_left < 24: score += 100
+                elif 24 <= hours_left < 48: score += 50
+            except: pass
+        
+        # 2. Prefer specific categories
+        cat = (m.get("category") or "").lower()
+        if any(c in cat for c in ['sports', 'nba', 'mlb', 'basketball', 'baseball']): score += 80
+        if any(c in cat for c in ['politics', 'election']): score += 60
+        if any(c in cat for c in ['stocks', 'crypto', 'finance']): score += 40
+        
+        # 3. Prefer volume (liquidity)
+        score += math.log10(max(m.get("volume", 0), 1)) * 5
+        return score
+
+    sorted_markets = sorted(all_markets, key=market_score, reverse=True)
 
     for market in sorted_markets:
-        # Stop if we've hit the open position cap
-        if len(open_ids) >= MAX_OPEN_TRADES:
-            break
-
+        if len(open_ids) >= MAX_OPEN_TRADES: break
         mid = market.get("id")
-        if mid in open_ids:
-            continue
+        if mid in open_ids: continue
 
-        # Skip markets with no real probability signal
         market_prob = market["prob_yes"]
-        if market_prob <= 0 or market_prob >= 1:
-            continue
+        if market_prob <= 0.01 or market_prob >= 0.99: continue
 
         true_prob = estimate_true_prob(market, all_markets)
-        edge_yes = true_prob - market_prob
-        edge_no  = (1 - true_prob) - (1 - market_prob)  # same as market_prob - true_prob
+        edge_yes, edge_no = true_prob - market_prob, (1 - true_prob) - (1 - market_prob)
         best_edge = max(edge_yes, edge_no)
 
-        if best_edge < MIN_EDGE:
-            continue
+        if best_edge < MIN_EDGE: continue
 
         side = "YES" if edge_yes >= edge_no else "NO"
         bet_amount = kelly_size(balance, true_prob, market_prob, side)
 
-        if bet_amount < 10:  # minimum $10 trade
-            continue
+        if bet_amount < 5: continue # Lowered min trade to $5
 
-        trade = {
+        trades_data["trades"].append({
             "id": f"trade-{len(trades_data['trades'])+1}",
             "market_id": mid,
             "platform": market["platform"],
@@ -175,28 +159,21 @@ def run_engine():
             "true_prob_estimate": true_prob,
             "edge": round(best_edge, 4),
             "bet_amount": bet_amount,
-            "potential_profit": round(
-                bet_amount * ((1 / market_prob if side == "YES" else 1 / (1 - market_prob)) - 1), 2
-            ),
+            "potential_profit": round(bet_amount * ((1/market_prob if side=="YES" else 1/(1-market_prob))-1), 2),
             "status": "open",
             "url": market["url"],
             "placed_at": NOW,
-            "resolved_at": None,
-            "pnl": None,
-        }
-        trades_data["trades"].append(trade)
+        })
         balance -= bet_amount
         open_ids.add(mid)
         new_trades += 1
-        print(f"  TRADE: {side} {market['platform']} | edge={best_edge:.3f} | ${bet_amount} | {market['title'][:60]}")
+        print(f"  AGGRESSIVE TRADE: {side} {market['platform']} | edge={best_edge:.3f} | ${bet_amount} | {market['title'][:50]}")
 
-    # Update bankroll
-    bankroll_data["balance"]      = round(balance, 2)
-    bankroll_data["peak"]         = round(max(bankroll_data["peak"], balance), 2)
+    bankroll_data["balance"] = round(balance, 2)
     bankroll_data["total_trades"] += new_trades
     save_bankroll(bankroll_data)
     save_trades(trades_data)
-    print(f"Engine run complete: {new_trades} new paper trades. Balance: ${balance:,.2f}")
+    print(f"Engine complete: {new_trades} new trades.")
 
 if __name__ == "__main__":
     run_engine()
