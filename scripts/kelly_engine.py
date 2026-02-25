@@ -1,6 +1,7 @@
 """
-PredictPal Kelly Criterion Paper Trading Engine
-Scans markets, finds edge, sizes bets using Half-Kelly, logs paper trades.
+PredictPal Kelly Criterion Paper Trading Engine (Pro Mode)
+Scans markets, analyzes 'Smart Money' pro bets, finds edge, and logs trades.
+Prioritizes short-term sports, politics, and market events.
 """
 import json, math, os
 from datetime import datetime, timezone, timedelta
@@ -8,78 +9,59 @@ from datetime import datetime, timezone, timedelta
 BANKROLL_FILE = "data/bankroll.json"
 TRADES_FILE   = "data/trades.json"
 MARKETS_FILE  = "data/markets.json"
+PRO_BETS_FILE = "data/pro_bets.json"
 NOW_DT = datetime.now(timezone.utc)
 NOW = NOW_DT.isoformat()
 
-# --- Aggressive Settings ---
+# --- Pro Aggressive Settings ---
 STARTING_BANKROLL = 100_000.0
-MIN_EDGE          = 0.02   # Lowered to 2% for more activity
-MAX_TRADE_PCT     = 0.08   # Increased to 8% (was 5%)
-KELLY_FRACTION    = 0.6    # Increased to 0.6-Kelly (was 0.5)
-MAX_OPEN_TRADES   = 40     # Doubled position limit (was 20)
+MIN_EDGE          = 0.015  # Very aggressive: 1.5% edge threshold
+MAX_TRADE_PCT     = 0.10   # High risk: 10% max bankroll per trade
+KELLY_FRACTION    = 0.7    # Aggressive Kelly: 0.7 sizing
+MAX_OPEN_TRADES   = 60     # High volume: up to 60 open slots
 
-# ── Load / initialise bankroll ──────────────────────────────────────────────
-def load_bankroll():
-    if os.path.exists(BANKROLL_FILE):
-        with open(BANKROLL_FILE) as f:
-            return json.load(f)
-    return {"balance": STARTING_BANKROLL, "peak": STARTING_BANKROLL,
-            "total_trades": 0, "updated_at": NOW}
+# ── Load / initialise data ──────────────────────────────────────────────────
+def load_json(path, default):
+    if os.path.exists(path):
+        try:
+            with open(path) as f: return json.load(f)
+        except: return default
+    return default
 
-def save_bankroll(br):
-    br["updated_at"] = NOW
-    with open(BANKROLL_FILE, "w") as f:
-        json.dump(br, f, indent=2)
+def save_json(path, data):
+    with open(path, "w") as f: json.dump(data, f, indent=2)
 
-def load_trades():
-    if os.path.exists(TRADES_FILE):
-        with open(TRADES_FILE) as f:
-            return json.load(f)
-    return {"trades": []}
-
-def save_trades(t):
-    with open(TRADES_FILE, "w") as f:
-        json.dump(t, f, indent=2)
-
-# ── AI probability estimator ────────────────────────────────────────────────────────
-def estimate_true_prob(market, all_markets):
+# ── AI probability estimator (Smart Money Integrated) ────────────────────────
+def estimate_true_prob(market, all_markets, pro_bets):
     base = market["prob_yes"]
+    mid = market["id"]
     volume = market.get("volume", 0) or 0
-    platform = market["platform"]
     category = (market.get("category") or "general").lower()
-    title_words = set(market["title"].lower().split())
-
-    # --- Signal 1: cross-platform consensus ---
-    peer_probs = []
-    peer_vols  = []
-    for m in all_markets:
-        if m["id"] == market["id"]: continue
-        if m["platform"] == platform: continue
-        other_words = set(m["title"].lower().split())
-        overlap = len(title_words & other_words) / max(len(title_words | other_words), 1)
-        if overlap >= 0.55:
-            peer_probs.append(m["prob_yes"])
-            peer_vols.append(m.get("volume", 0) or 0)
-
-    if peer_probs:
-        total_vol = sum(peer_vols) + max(volume, 1)
-        our_weight = max(volume, 1) / total_vol
-        peer_weight = 1 - our_weight
-        peer_avg = sum(p * v for p, v in zip(peer_probs, peer_vols)) / max(sum(peer_vols), 1)
-        base = our_weight * base + peer_weight * peer_avg
-
-    # --- Signal 2: Aggressive Nudge for Preferred Categories ---
-    # We prefer Sports, Politics, and Markets
-    active_cats = ['sports', 'nba', 'nfl', 'mlb', 'politics', 'crypto', 'stocks', 'finance']
-    is_preferred = any(c in category for c in active_cats)
     
-    if volume < 2000:
-        nudge = 0.20 if is_preferred else 0.10
-        base = base * (1 - nudge) + 0.5 * nudge
+    # --- Signal 1: Smart Money (Pro Bets) ---
+    # This is the strongest nudge. If top traders are betting, we follow.
+    pro_signal = 0
+    for bet in pro_bets:
+        if bet["market_id"] == mid or bet["market_id"] in mid:
+            # Polymarket outcome 0 is usually 'Yes', 1 is 'No'
+            # Adjust probability based on pro bet direction
+            if bet["side"] == "BUY":
+                pro_signal += 0.08 if bet["outcome"] == "0" else -0.08
+            else: # SELL
+                pro_signal += -0.05 if bet["outcome"] == "0" else 0.05
+    
+    base += pro_signal
 
-    return round(base, 4)
+    # --- Signal 2: Category Confidence Nudge ---
+    active_cats = ['sports', 'nba', 'mlb', 'politics', 'fed', 'crypto', 'stocks']
+    is_preferred = any(c in category for c in active_cats)
+    if is_preferred and volume < 5000:
+        # Nudge toward 50% for thin markets to create edge vs overconfident prices
+        base = base * 0.85 + 0.5 * 0.15
+        
+    return round(max(0.01, min(0.99, base)), 4)
 
-# ── Kelly bet sizing ───────────────────────────────────────────────────────────────────
+# ── Kelly bet sizing ─────────────────────────────────────────────────────────
 def kelly_size(bankroll, true_prob, market_prob, side="YES"):
     if side == "YES":
         p, b = true_prob, (1 - market_prob) / max(market_prob, 0.001)
@@ -91,55 +73,52 @@ def kelly_size(bankroll, true_prob, market_prob, side="YES"):
     if kelly_f <= 0: return 0.0
     return round(bankroll * min(kelly_f * KELLY_FRACTION, MAX_TRADE_PCT), 2)
 
-# ── Main trading loop ──────────────────────────────────────────────────────────────────
+# ── Main trading loop ────────────────────────────────────────────────────────
 def run_engine():
-    if not os.path.exists(MARKETS_FILE): return
-    with open(MARKETS_FILE) as f: mdata = json.load(f)
-
-    all_markets = mdata["markets"]
-    bankroll_data = load_bankroll()
-    trades_data   = load_trades()
+    mdata = load_json(MARKETS_FILE, {"markets": []})
+    if not mdata["markets"]: return
+    
+    pbets = load_json(PRO_BETS_FILE, {"bets": []}).get("bets", [])
+    bankroll_data = load_json(BANKROLL_FILE, {"balance": STARTING_BANKROLL, "total_trades": 0})
+    trades_data = load_json(TRADES_FILE, {"trades": []})
+    
     balance = bankroll_data["balance"]
     new_trades = 0
     open_ids = {t["market_id"] for t in trades_data["trades"] if t["status"] == "open"}
 
-    # --- Aggressive Prioritization ---
     def market_score(m):
         score = 0
-        # 1. Prefer short-term markets (closes in 12-48 hours)
+        mid = m["id"]
+        # 1. HUGE BONUS: Smart Money follows (+200 points)
+        if any(b["market_id"] == mid for b in pbets): score += 200
+        
+        # 2. Short-term bonus (same day / 24hr)
         end_str = m.get("end_date")
         if end_str:
             try:
-                # Handle various formats (ISO, Polymarket, etc)
-                clean_end = end_str.replace('Z', '+00:00')
-                end_dt = datetime.fromisoformat(clean_end)
+                end_dt = datetime.fromisoformat(end_str.replace('Z', '+00:00'))
                 hours_left = (end_dt - NOW_DT).total_seconds() / 3600
-                if 0 < hours_left < 24: score += 100
-                elif 24 <= hours_left < 48: score += 50
+                if 0 < hours_left < 12: score += 150 # Extreme priority for same-day
+                elif 12 <= hours_left < 48: score += 70
             except: pass
-        
-        # 2. Prefer specific categories
+            
+        # 3. Category match
         cat = (m.get("category") or "").lower()
-        if any(c in cat for c in ['sports', 'nba', 'mlb', 'basketball', 'baseball']): score += 80
-        if any(c in cat for c in ['politics', 'election']): score += 60
-        if any(c in cat for c in ['stocks', 'crypto', 'finance']): score += 40
-        
-        # 3. Prefer volume (liquidity)
-        score += math.log10(max(m.get("volume", 0), 1)) * 5
+        if any(c in cat for c in ['sports', 'nba', 'mlb', 'politics', 'fed']): score += 100
         return score
 
-    sorted_markets = sorted(all_markets, key=market_score, reverse=True)
+    sorted_markets = sorted(mdata["markets"], key=market_score, reverse=True)
 
     for market in sorted_markets:
         if len(open_ids) >= MAX_OPEN_TRADES: break
-        mid = market.get("id")
+        mid = market["id"]
         if mid in open_ids: continue
 
         market_prob = market["prob_yes"]
-        if market_prob <= 0.01 or market_prob >= 0.99: continue
-
-        true_prob = estimate_true_prob(market, all_markets)
-        edge_yes, edge_no = true_prob - market_prob, (1 - true_prob) - (1 - market_prob)
+        true_prob = estimate_true_prob(market, mdata["markets"], pbets)
+        
+        edge_yes = true_prob - market_prob
+        edge_no = (1 - true_prob) - (1 - market_prob)
         best_edge = max(edge_yes, edge_no)
 
         if best_edge < MIN_EDGE: continue
@@ -147,7 +126,7 @@ def run_engine():
         side = "YES" if edge_yes >= edge_no else "NO"
         bet_amount = kelly_size(balance, true_prob, market_prob, side)
 
-        if bet_amount < 5: continue # Lowered min trade to $5
+        if bet_amount < 5: continue
 
         trades_data["trades"].append({
             "id": f"trade-{len(trades_data['trades'])+1}",
@@ -159,21 +138,20 @@ def run_engine():
             "true_prob_estimate": true_prob,
             "edge": round(best_edge, 4),
             "bet_amount": bet_amount,
-            "potential_profit": round(bet_amount * ((1/market_prob if side=="YES" else 1/(1-market_prob))-1), 2),
+            "pro_money": any(b["market_id"] == mid for b in pbets),
             "status": "open",
-            "url": market["url"],
             "placed_at": NOW,
         })
         balance -= bet_amount
         open_ids.add(mid)
         new_trades += 1
-        print(f"  AGGRESSIVE TRADE: {side} {market['platform']} | edge={best_edge:.3f} | ${bet_amount} | {market['title'][:50]}")
+        print(f"  PRO TRADE: {side} | {market['title'][:45]} | Edge: {best_edge:.3f}")
 
     bankroll_data["balance"] = round(balance, 2)
     bankroll_data["total_trades"] += new_trades
-    save_bankroll(bankroll_data)
-    save_trades(trades_data)
-    print(f"Engine complete: {new_trades} new trades.")
+    save_json(BANKROLL_FILE, bankroll_data)
+    save_json(TRADES_FILE, trades_data)
+    print(f"Engine Run Done: {new_trades} new trades.")
 
 if __name__ == "__main__":
     run_engine()
