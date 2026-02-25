@@ -2,7 +2,7 @@ name: Fetch Market Data
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # every 15 minutes
+    - cron: '*/5 * * * *'  # triggers every 5 min
   workflow_dispatch:
 
 jobs:
@@ -19,13 +19,39 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run fetcher
+      # ── Round 1 of 3 ──────────────────────────────────────────
+      - name: Fetch round 1
         run: python scripts/fetch_markets.py
 
-      - name: Commit data
+      - name: Commit round 1
         run: |
           git config user.name "predictpal-bot"
           git config user.email "bot@predictpal"
           git add data/
-          git diff --cached --quiet || git commit -m "chore: update market data"
-          git push
+          git diff --cached --quiet || git commit -m "chore: market data round 1" && git push
+
+      - name: Wait 2 minutes
+        run: sleep 120
+
+      # ── Round 2 of 3 ──────────────────────────────────────────
+      - name: Fetch round 2
+        run: python scripts/fetch_markets.py
+
+      - name: Commit round 2
+        run: |
+          git pull --rebase
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: market data round 2" && git push
+
+      - name: Wait 2 more minutes
+        run: sleep 120
+
+      # ── Round 3 of 3 ──────────────────────────────────────────
+      - name: Fetch round 3
+        run: python scripts/fetch_markets.py
+
+      - name: Commit round 3
+        run: |
+          git pull --rebase
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: market data round 3" && git push
