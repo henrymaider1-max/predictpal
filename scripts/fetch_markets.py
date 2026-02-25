@@ -3,7 +3,7 @@ PredictPal Market Data Fetcher
 Pulls data from Polymarket, Kalshi, Manifold, and Metaculus.
 Saves normalized JSON to /data/ for the frontend to read.
 """
-import requests, json, time, os
+import requests, json, time, os, re
 from datetime import datetime, timezone
 
 HEADERS = {"User-Agent": "PredictPal/1.0"}
@@ -37,10 +37,9 @@ def norm(platform, title, prob_yes, volume, url, end_date=None, category=None, m
     }
 
 # ── Polymarket ──────────────────────────────────────────────────────────────────
-def fetch_polymarket(limit=200):
+def fetch_polymarket(limit=300):
     markets = []
-    # Fetch in two batches of 100 (API max per request)
-    for offset in [0, 100]:
+    for offset in range(0, limit, 100):
         data = safe_get("https://gamma-api.polymarket.com/markets", params={
             "limit": 100, "offset": offset, "active": "true", "closed": "false",
             "_order": "volume24hr", "_sort": "desc"
@@ -67,13 +66,13 @@ def fetch_polymarket(limit=200):
             except Exception as e:
                 print(f"  [Polymarket parse error] {e}")
         if len(items) < 100:
-            break  # no more pages
-        time.sleep(0.5)  # be polite
+            break
+        time.sleep(0.5)
     print(f"  Polymarket: {len(markets)} markets")
     return markets[:limit]
 
 # ── Kalshi ──────────────────────────────────────────────────────────────────────
-def fetch_kalshi(limit=200):
+def fetch_kalshi(limit=300):
     markets = []
     cursor = None
     while len(markets) < limit:
@@ -107,7 +106,7 @@ def fetch_kalshi(limit=200):
     return markets[:limit]
 
 # ── Manifold ────────────────────────────────────────────────────────────────────
-def fetch_manifold(limit=200):
+def fetch_manifold(limit=300):
     markets = []
     before = None
     while len(markets) < limit:
@@ -145,7 +144,7 @@ def fetch_manifold(limit=200):
     return markets[:limit]
 
 # ── Metaculus ───────────────────────────────────────────────────────────────────
-def fetch_metaculus(limit=200):
+def fetch_metaculus(limit=300):
     markets = []
     url = "https://www.metaculus.com/api2/questions/"
     while len(markets) < limit and url:
@@ -172,7 +171,7 @@ def fetch_metaculus(limit=200):
                 ))
             except Exception as e:
                 print(f"  [Metaculus parse error] {e}")
-        url = data.get("next")  # paginate
+        url = data.get("next")
         if not url or len(data.get("results", [])) < 100:
             break
         time.sleep(0.5)
@@ -203,30 +202,66 @@ def fetch_top_traders(limit=20):
     print(f"  Traders: {len(traders)} fetched")
     return traders
 
-# ── Arbitrage detector ──────────────────────────────────────────────────────────
-def find_arbitrage(all_markets, threshold=0.04):
+# ── Improved Arbitrage Detector ────────────────────────────────────────────────
+def extract_core_topic(title):
+    """Extract key entities from title for better matching."""
+    # Remove common question words and punctuation
+    title = title.lower()
+    title = re.sub(r'[?.,!]', '', title)
+    # Remove common prediction market phrases
+    stopwords = {'will', 'be', 'at', 'least', 'more', 'than', 'less', 'by', 'before', 
+                 'after', 'in', 'on', 'of', 'the', 'a', 'an', 'to', 'for', 'is', 'as',
+                 'and', 'or', 'not', 'end', 'close', 'above', 'below', 'over', 'under',
+                 'reach', 'hit', 'have', 'has', 'people', 'number', 'total'}
+    words = [w for w in title.split() if w not in stopwords and len(w) > 2]
+    return set(words)
+
+def find_arbitrage(all_markets, threshold=0.03):
+    """
+    Improved arbitrage detector using:
+    1. Core topic extraction (entity-based matching)
+    2. Keyword overlap with stopword removal
+    3. Lower threshold (3%) since we have more markets
+    """
     arb_opportunities = []
-    for i, a in enumerate(all_markets):
-        for j, b in enumerate(all_markets):
-            if i >= j:
-                continue
+    
+    # Pre-compute core topics for all markets
+    market_topics = [(m, extract_core_topic(m["title"])) for m in all_markets]
+    
+    for i, (a, topics_a) in enumerate(market_topics):
+        for j in range(i+1, len(market_topics)):
+            b, topics_b = market_topics[j]
+            
+            # Skip same platform
             if a["platform"] == b["platform"]:
                 continue
-            words_a = set(a["title"].lower().split())
-            words_b = set(b["title"].lower().split())
-            overlap = len(words_a & words_b) / max(len(words_a | words_b), 1)
-            if overlap > 0.5:
+            
+            # Skip if very low volume on both (likely stale)
+            if a.get("volume", 0) < 100 and b.get("volume", 0) < 100:
+                continue
+            
+            # Calculate keyword overlap
+            if not topics_a or not topics_b:
+                continue
+            overlap = len(topics_a & topics_b) / max(len(topics_a | topics_b), 1)
+            
+            # Lower threshold: 30% topic overlap (was 50%)
+            if overlap >= 0.30:
                 diff = abs(a["prob_yes"] - b["prob_yes"])
                 if diff >= threshold:
                     arb_opportunities.append({
-                        "market_a": {"platform": a["platform"], "title": a["title"], "prob_yes": a["prob_yes"], "url": a["url"]},
-                        "market_b": {"platform": b["platform"], "title": b["title"], "prob_yes": b["prob_yes"], "url": b["url"]},
+                        "market_a": {"platform": a["platform"], "title": a["title"], 
+                                     "prob_yes": a["prob_yes"], "url": a["url"]},
+                        "market_b": {"platform": b["platform"], "title": b["title"], 
+                                     "prob_yes": b["prob_yes"], "url": b["url"]},
                         "prob_diff": round(diff, 4),
+                        "topic_overlap": round(overlap, 3),
                         "detected_at": NOW,
                     })
+    
     arb_opportunities.sort(key=lambda x: x["prob_diff"], reverse=True)
     print(f"  Arbitrage: {len(arb_opportunities)} opportunities found")
-    return arb_opportunities[:20]
+    return arb_opportunities[:30]  # return top 30 (was 20)
 
 # ── Main ────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
