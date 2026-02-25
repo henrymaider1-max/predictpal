@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25T06:01:34.568512+00:00",
+  "updated_at": "2026-02-25T06:03:50.511100+00:00",
   "markets": [
     {
       "id": "517310",
@@ -11,7 +11,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-less-than-250000",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517311",
@@ -23,7 +23,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-250000-500000-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517313",
@@ -35,7 +35,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-500000-750000-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517314",
@@ -47,7 +47,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-750000-1000000-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517315",
@@ -59,7 +59,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-1000000-1250000-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517316",
@@ -71,7 +71,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-1250000-1500000-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517317",
@@ -83,7 +83,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-1500000-1750000-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517318",
@@ -95,7 +95,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-1750000-2000000-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517319",
@@ -107,7 +107,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-2000000-or-more-people",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "517321",
@@ -119,7 +119,7 @@
       "url": "https://polymarket.com/event/will-trump-deport-750000-or-more-people-in-2025",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "527079",
@@ -131,7 +131,7 @@
       "url": "https://polymarket.com/event/will-gta-6-cost-100",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "528788",
@@ -143,7 +143,7 @@
       "url": "https://polymarket.com/event/rojas-guilty-in-texas-illegal-abortion-case",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "528820",
@@ -155,7 +155,7 @@
       "url": "https://polymarket.com/event/senator-eichorn-guilty-of-soliciting-a-child",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "531202",
@@ -167,7 +167,7 @@
       "url": "https://polymarket.com/event/bitboy-convicted",
       "end_date": "2026-03-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "537484",
@@ -179,7 +179,7 @@
       "url": "https://polymarket.com/event/will-the-us-collect-less-than-100b-in-revenue-in-2025",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "537485",
@@ -191,7 +191,7 @@
       "url": "https://polymarket.com/event/will-the-us-collect-between-100b-and-200b-in-revenue-in-2025",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "537486",
@@ -203,7 +203,7 @@
       "url": "https://polymarket.com/event/will-the-us-collect-between-200b-and-500b-in-revenue-in-2025",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "537487",
@@ -215,7 +215,7 @@
       "url": "https://polymarket.com/event/will-the-us-collect-between-500b-and-1t-in-revenue-in-2025",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "537488",
@@ -227,7 +227,7 @@
       "url": "https://polymarket.com/event/will-the-us-collect-between-1t-and-2t-in-revenue-in-2025",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "537489",
@@ -239,7 +239,7 @@
       "url": "https://polymarket.com/event/will-the-us-collect-more-than-2t-in-revenue-in-2025",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "537490",
@@ -251,7 +251,7 @@
       "url": "https://polymarket.com/event/will-tariffs-generate-250b-in-2025",
       "end_date": "2026-02-28T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540816",
@@ -263,7 +263,7 @@
       "url": "https://polymarket.com/event/russia-ukraine-ceasefire-before-gta-vi-554",
       "end_date": "2026-07-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540817",
@@ -275,7 +275,7 @@
       "url": "https://polymarket.com/event/new-rhianna-album-before-gta-vi-926",
       "end_date": "2026-07-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540818",
@@ -287,7 +287,7 @@
       "url": "https://polymarket.com/event/new-playboi-carti-album-before-gta-vi-421",
       "end_date": "2026-07-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540819",
@@ -299,7 +299,7 @@
       "url": "https://polymarket.com/event/will-jesus-christ-return-before-gta-vi-665",
       "end_date": "2026-07-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540820",
@@ -311,7 +311,7 @@
       "url": "https://polymarket.com/event/trump-out-as-president-before-gta-vi-846",
       "end_date": "2026-07-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540843",
@@ -323,7 +323,7 @@
       "url": "https://polymarket.com/event/will-china-invades-taiwan-before-gta-vi-716",
       "end_date": "2026-07-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540844",
@@ -335,7 +335,7 @@
       "url": "https://polymarket.com/event/will-bitcoin-hit-1m-before-gta-vi-872",
       "end_date": "2026-07-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "540881",
@@ -347,7 +347,7 @@
       "url": "https://polymarket.com/event/gta-vi-released-before-june-2026",
       "end_date": "2026-05-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "544092",
@@ -359,7 +359,7 @@
       "url": "https://polymarket.com/event/will-harvey-weinstein-be-sentenced-to-no-prison-time",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "544093",
@@ -371,7 +371,7 @@
       "url": "https://polymarket.com/event/will-harvey-weinstein-be-sentenced-to-less-than-5-years-in-prison",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "544094",
@@ -383,7 +383,7 @@
       "url": "https://polymarket.com/event/will-harvey-weinstein-be-sentenced-to-between-5-and-10-years-in-prison",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "544095",
@@ -395,7 +395,7 @@
       "url": "https://polymarket.com/event/will-harvey-weinstein-be-sentenced-to-between-10-and-20-years-in-prison",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "544096",
@@ -407,7 +407,7 @@
       "url": "https://polymarket.com/event/will-harvey-weinstein-be-sentenced-to-between-20-and-30-years-in-prison",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "544097",
@@ -419,7 +419,7 @@
       "url": "https://polymarket.com/event/will-harvey-weinstein-be-sentenced-to-more-than-30-years-in-prison",
       "end_date": "2025-12-31T12:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "546612",
@@ -431,7 +431,7 @@
       "url": "https://polymarket.com/event/will-openai-launch-a-new-consumer-hardware-product-by-march-31-2026",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "550694",
@@ -443,7 +443,7 @@
       "url": "https://polymarket.com/event/will-italy-qualify-for-the-2026-fifa-world-cup",
       "end_date": "2026-04-12T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "550703",
@@ -455,7 +455,7 @@
       "url": "https://polymarket.com/event/will-sweden-qualify-for-the-2026-fifa-world-cup",
       "end_date": "2026-04-12T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "550706",
@@ -467,7 +467,7 @@
       "url": "https://polymarket.com/event/will-poland-qualify-for-the-2026-fifa-world-cup",
       "end_date": "2026-04-12T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "550708",
@@ -479,7 +479,7 @@
       "url": "https://polymarket.com/event/will-ukraine-qualify-for-the-2026-fifa-world-cup",
       "end_date": "2026-04-12T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553824",
@@ -491,7 +491,7 @@
       "url": "https://polymarket.com/event/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553825",
@@ -503,7 +503,7 @@
       "url": "https://polymarket.com/event/will-the-florida-panthers-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553826",
@@ -515,7 +515,7 @@
       "url": "https://polymarket.com/event/will-the-edmonton-oilers-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553827",
@@ -527,7 +527,7 @@
       "url": "https://polymarket.com/event/will-the-dallas-stars-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553828",
@@ -539,7 +539,7 @@
       "url": "https://polymarket.com/event/will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553829",
@@ -551,7 +551,7 @@
       "url": "https://polymarket.com/event/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553830",
@@ -563,7 +563,7 @@
       "url": "https://polymarket.com/event/will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553831",
@@ -575,7 +575,7 @@
       "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553832",
@@ -587,7 +587,7 @@
       "url": "https://polymarket.com/event/will-the-new-jersey-devils-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "553833",
@@ -599,607 +599,607 @@
       "url": "https://polymarket.com/event/will-the-winnipeg-jets-win-the-2026-nhl-stanley-cup",
       "end_date": "2026-06-30T00:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026686B732BAB5-501C63A4FE4",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202606F22A3E183-C45A1326F7F",
       "platform": "Kalshi",
-      "title": "yes Boston,yes Cleveland,yes Golden State,yes Detroit,yes Houston,yes San Antonio,yes Charlotte,yes Houston,yes Philadelphia,yes Portland,yes San Antonio,yes Atlanta",
+      "title": "yes Golden State,yes Oklahoma City,yes San Antonio,yes Victor Wembanyama: 20+,yes Victor Wembanyama: 8+",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026686b732bab5",
-      "end_date": "2026-03-12T03:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20263BE195B49AD-FFB247A4E6D",
-      "platform": "Kalshi",
-      "title": "yes Boston,yes Cade Cunningham: 4+,no Detroit wins by over 6.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263be195b49ad",
-      "end_date": "2026-03-12T03:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20260F0DC3C0EB3-5D0E8BA7E04",
-      "platform": "Kalshi",
-      "title": "yes Houston,yes Jabari Smith Jr.: 10+,yes Kevin Durant: 25+,yes Alperen Sengun: 6+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20260f0dc3c0eb3",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20269A0DF153015-4018D5A290C",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 20+,yes DeMar DeRozan: 10+,yes Russell Westbrook: 10+,yes Chet Holmgren: 6+,yes Victor Wembanyama: 8+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20269a0df153015",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202606f22a3e183",
       "end_date": "2026-03-12T00:30:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A5D0992BE2A-319A548CA50",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026B1864E2C002-EEAF395E74C",
       "platform": "Kalshi",
-      "title": "yes New Mexico wins by over 1.5 Points,no Over 155.5 points scored",
+      "title": "yes Cade Cunningham: 20+,yes Chet Holmgren: 15+,yes Ausar Thompson: 2+,yes Chet Holmgren: 6+",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a5d0992be2a",
-      "end_date": "2026-03-11T04:00:00Z",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b1864e2c002",
+      "end_date": "2026-03-12T00:30:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202600355D47EF9-BE89E39ACF1",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BEB21E97E09-78B334ABA61",
       "platform": "Kalshi",
-      "title": "yes Nevada,yes Over 170.5 points scored,yes Over 152.5 points scored",
+      "title": "yes Cleveland,yes Houston,yes San Antonio,yes Kevin Durant: 20+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026beb21e97e09",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026AEF090D7E81-4A7953F3DE9",
+      "platform": "Kalshi",
+      "title": "yes Cade Cunningham: 8+,yes Stephon Castle: 6+,yes Victor Wembanyama: 10+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026aef090d7e81",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026EB949127F2F-1415F8686FC",
+      "platform": "Kalshi",
+      "title": "yes Golden State,yes Detroit,yes Houston,yes San Antonio,yes Wake Forest,yes Villanova,yes Furman,yes Robert Morris,yes Belmont,yes Florida,yes James Madison,yes Boston University,yes Southern Illinois,yes Colgate,yes American,yes Nebraska,yes Navy,yes Stanford,yes Seattle,yes South Alabama,yes Oregon St.,yes South Florida,yes Wisconsin",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026eb949127f2f",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202607E274B8C40-8B4BFCF538D",
+      "platform": "Kalshi",
+      "title": "yes New Mexico,yes UCLA,yes UCF wins by over 5.5 Points,yes Over 134.5 points scored,yes Over 152.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202607e274b8c40",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202682F2D9DC80C-E897A7F70AB",
+      "platform": "Kalshi",
+      "title": "yes Denver,yes Milwaukee,yes Detroit,yes San Antonio",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202682f2d9dc80c",
+      "end_date": "2026-03-12T03:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026D82CAAED942-DB512BD1E9A",
+      "platform": "Kalshi",
+      "title": "yes Oklahoma City,yes San Antonio,yes Cleveland wins by over 8.5 Points",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026d82caaed942",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A608FDD2266-85476684A0F",
+      "platform": "Kalshi",
+      "title": "no UCLA wins by over 9.5 Points,no Over 170.5 points scored,no Over 152.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a608fdd2266",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026B2FF4FDF02F-B8913A4791F",
+      "platform": "Kalshi",
+      "title": "yes Milwaukee,yes Dallas",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b2ff4fdf02f",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20267416E018E66-EA265F783BC",
+      "platform": "Kalshi",
+      "title": "yes Stephon Castle: 6+,yes Cleveland,yes Golden State,yes San Antonio,yes De'Aaron Fox: 10+,yes Victor Wembanyama: 20+,yes Victor Wembanyama: 10+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20267416e018e66",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202636461A00C19-3BEF75AA383",
+      "platform": "Kalshi",
+      "title": "yes Ausar Thompson: 2+,yes Over 203.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202636461a00c19",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20263E5216C1D42-D28A9C0C8B3",
+      "platform": "Kalshi",
+      "title": "yes New Zealand,yes South Africa,yes Zimbabwe,yes Pakistan",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263e5216c1d42",
+      "end_date": "2026-03-12T13:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026185E54B06C6-A0809BA5B34",
+      "platform": "Kalshi",
+      "title": "yes San Antonio,yes Nebraska wins by over 12.5 Points",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026185e54b06c6",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20265E8E8DE6731-E4F7C837093",
+      "platform": "Kalshi",
+      "title": "yes Cleveland,yes Detroit,yes San Antonio,yes Florida,yes Arkansas",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20265e8e8de6731",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20260ED98860FA6-15281B54353",
+      "platform": "Kalshi",
+      "title": "yes Boston,yes Cleveland,yes Golden State,yes Detroit,yes Houston,yes San Antonio,yes Over 228.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20260ed98860fa6",
+      "end_date": "2026-03-12T03:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202636FAAE215C0-29ED55934DF",
+      "platform": "Kalshi",
+      "title": "yes Duncan Robinson: 2+,yes Russell Westbrook: 25+,yes RJ Barrett: 2+,no Over 229.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202636faae215c0",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E931A2F729C-51F86AD0594",
+      "platform": "Kalshi",
+      "title": "yes Denver,yes Cleveland,yes Golden State,yes Houston,yes San Antonio,no Detroit wins by over 6.5 Points,yes UConn",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026e931a2f729c",
+      "end_date": "2026-03-12T03:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E24C0F2D249-77E1BB3EF71",
+      "platform": "Kalshi",
+      "title": "yes Golden State,yes Oklahoma City,yes San Antonio,yes Victor Wembanyama: 20+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026e24c0f2d249",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026B6C5535672D-DBABA1FF3A7",
+      "platform": "Kalshi",
+      "title": "yes Gael Monfils,yes Felix Auger-Aliassime,yes Alexander Bublik,yes Jakub Mensik",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6c5535672d",
+      "end_date": "2026-03-08T23:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202615E81CD4992-217C9B3C094",
+      "platform": "Kalshi",
+      "title": "yes Alperen Sengun: 20+,yes Kevin Durant: 25+,yes Reed Sheppard: 15+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202615e81cd4992",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E25BAEB6844-1B2236CA7E8",
+      "platform": "Kalshi",
+      "title": "yes Ausar Thompson: 3+,yes Luguentz Dort: 10+,yes Cade Cunningham: 6+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026e25baeb6844",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202668BF7143365-D0F68330C14",
+      "platform": "Kalshi",
+      "title": "yes New Mexico,no New Mexico wins by over 1.5 Points",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202668bf7143365",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202610E73C38BA9-9A646EA9A37",
+      "platform": "Kalshi",
+      "title": "yes New Mexico,yes UCLA,yes UCF wins by over 5.5 Points,yes Over 152.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202610e73c38ba9",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20268E459A4E51B-E6BC9FB1A91",
+      "platform": "Kalshi",
+      "title": "yes New Mexico,yes UCLA wins by over 6.5 Points,yes Over 146.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268e459a4e51b",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026544879F0C89-588C8D7350B",
+      "platform": "Kalshi",
+      "title": "yes Both Teams To Score,yes Both Teams To Score,yes Both Teams To Score,yes Both Teams To Score,yes Both Teams To Score",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026544879f0c89",
+      "end_date": "2026-03-14T15:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20262CC870B48B3-119A7908C5B",
+      "platform": "Kalshi",
+      "title": "yes Denver,yes Cleveland,yes Golden State,yes Oklahoma City,yes Houston,yes San Antonio,yes Houston,yes Philadelphia",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262cc870b48b3",
+      "end_date": "2026-03-12T03:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BE7B544415C-E99C483BDB6",
+      "platform": "Kalshi",
+      "title": "yes Cleveland,yes Houston,yes San Antonio,yes Houston,yes San Antonio",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026be7b544415c",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20268852142DC56-31D5D364DE7",
+      "platform": "Kalshi",
+      "title": "yes Kevin Durant: 20+,yes Victor Wembanyama: 10+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268852142dc56",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20264119F9E6B2D-F9AF0F89586",
+      "platform": "Kalshi",
+      "title": "yes Cade Cunningham: 2+,yes Duncan Robinson: 2+,yes Kevin Durant: 2+,yes Victor Wembanyama: 1+,yes Russell Westbrook: 2+,yes Immanuel Quickley: 10+,yes Houston wins by over 6.5 Points",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264119f9e6b2d",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026039E3883BAA-CCEFC5A227D",
+      "platform": "Kalshi",
+      "title": "yes Victor Wembanyama: 4+,yes Cleveland,yes San Antonio,yes Alperen Sengun: 15+,yes Cade Cunningham: 4+,yes Alperen Sengun: 6+,yes Jabari Smith Jr.: 6+,yes Stephon Castle: 4+,yes Victor Wembanyama: 8+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026039e3883baa",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026289852C95DB-876E469E532",
+      "platform": "Kalshi",
+      "title": "no New Mexico wins by over 1.5 Points,yes UCLA wins by over 9.5 Points,no Over 173.5 points scored,no Over 152.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026289852c95db",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20263CD98BFE589-7893A9936A0",
+      "platform": "Kalshi",
+      "title": "yes Over 173.5 points scored,yes Over 161.5 points scored,yes Over 152.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263cd98bfe589",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202600355D47EF9-0FC7449F140",
+      "platform": "Kalshi",
+      "title": "yes Nevada,no Over 170.5 points scored,no Over 152.5 points scored",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
       "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202600355d47ef9",
       "end_date": "2026-03-11T04:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202663976B4A487-E677B7CB262",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20262BCB0BD653E-41F9FF5C3DA",
       "platform": "Kalshi",
-      "title": "yes Victor Wembanyama: 2+,yes Cade Cunningham: 20+,yes Alperen Sengun: 10+,yes De'Aaron Fox: 10+,yes Stephon Castle: 10+",
+      "title": "yes Cleveland,yes Detroit,yes Houston,yes San Antonio,yes Cade Cunningham: 20+,yes Kevin Durant: 20+,yes Stephon Castle: 10+,yes Kevin Durant: 2+,yes Stephon Castle: 2+",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202663976b4a487",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262bcb0bd653e",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202673024EC0F30-ECDCF6F7D93",
+      "platform": "Kalshi",
+      "title": "yes Golden State,yes Detroit,yes San Antonio,yes Wake Forest,yes Villanova,yes Furman,yes Robert Morris,yes Belmont,yes Florida,yes James Madison,yes Boston University,yes Southern Illinois,yes Colgate,yes American,yes Nebraska,yes Navy,yes Stanford,yes Seattle,yes South Alabama,yes Oregon St.,yes South Florida,yes Wisconsin",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202673024ec0f30",
       "end_date": "2026-03-12T00:30:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20263C7CBD3FB2D-CDFA32AD094",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026319442AB443-B61D08B0591",
       "platform": "Kalshi",
-      "title": "yes Immanuel Quickley: 2+,yes San Antonio,yes Immanuel Quickley: 10+,yes RJ Barrett: 2+",
+      "title": "yes Cade Cunningham: 25+,yes Kevin Durant: 20+,yes Victor Wembanyama: 25+",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263c7cbd3fb2d",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026319442ab443",
       "end_date": "2026-03-12T00:30:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202623A2C1601A0-0CC470A4216",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E8C8A7FC849-4BA220135F3",
       "platform": "Kalshi",
-      "title": "yes New Mexico wins by over 1.5 Points,no UCLA wins by over 9.5 Points,no Over 152.5 points scored",
+      "title": "yes Aston Villa,yes Brentford,yes Manchester City,yes Liverpool,yes Newcastle,yes Arsenal,yes Brighton,yes Manchester United,yes Barcelona,yes Atletico,yes Real Betis,yes Real Madrid,yes Inter",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202623a2c1601a0",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026e8c8a7fc849",
+      "end_date": "2026-03-13T20:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DC58AA725B0-DCC1DE2746A",
+      "platform": "Kalshi",
+      "title": "yes Kevin Durant: 2+,yes Jabari Smith Jr.: 10+,yes De'Aaron Fox: 10+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026dc58aa725b0",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202698814CBE8B4-BE0E990CD30",
+      "platform": "Kalshi",
+      "title": "yes Cleveland,yes Houston,yes Chet Holmgren: 10+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202698814cbe8b4",
+      "end_date": "2026-03-12T01:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E6911741692-0F387017295",
+      "platform": "Kalshi",
+      "title": "yes Nevada,yes UCLA wins by over 6.5 Points,no Over 170.5 points scored,yes Over 146.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026e6911741692",
       "end_date": "2026-03-11T04:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026CD889A45E20-57A36968F08",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026EC1C989BFF3-D0F9CD98417",
       "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 20+,yes Alperen Sengun: 10+,yes Kevin Durant: 20+,yes DeMar DeRozan: 10+,yes De'Aaron Fox: 10+,yes Devin Vassell: 10+,yes Stephon Castle: 10+,yes Victor Wembanyama: 20+",
+      "title": "yes Tie,yes PSG,yes Real Madrid,yes Over 1.5 goals scored,yes Over 1.5 goals scored,yes Over 1.5 goals scored",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026cd889a45e20",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202603F6DC38BA4-9F63DF13E33",
-      "platform": "Kalshi",
-      "title": "yes Cleveland,yes Houston,no San Antonio wins by over 6.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202603f6dc38ba4",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026204EA090B73-14AE98CAFDB",
-      "platform": "Kalshi",
-      "title": "yes Tobias Harris: 10+,yes Immanuel Quickley: 10+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026204ea090b73",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E6E6A9BCA9B-A2DF09AA4D1",
-      "platform": "Kalshi",
-      "title": "yes Cleveland,yes Detroit,yes Houston,yes San Antonio,yes Over 212.5 points scored,yes Over 203.5 points scored,yes Over 206.5 points scored,yes Over 213.5 points scored",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026e6e6a9bca9b",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E14FD762A2B-E72A99839A7",
-      "platform": "Kalshi",
-      "title": "yes Detroit,yes San Antonio,yes UCF,yes UCLA",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026e14fd762a2b",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026771298CC20A-0CC859E13D3",
-      "platform": "Kalshi",
-      "title": "yes Creighton,yes James Madison,yes Saint Mary's,yes Loyola Marymount",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026771298cc20a",
-      "end_date": "2026-03-12T02:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202695939FF496C-E23E608D530",
-      "platform": "Kalshi",
-      "title": "yes Yibing Wu,yes Nevada,no UCLA wins by over 9.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202695939ff496c",
-      "end_date": "2026-03-11T00:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20267FFABB33971-99B38A037E6",
-      "platform": "Kalshi",
-      "title": "yes De'Aaron Fox: 2+,yes De'Aaron Fox: 10+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20267ffabb33971",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026157CD5E3B75-4BCDF0C06E2",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 20+,yes Russell Westbrook: 10+,yes Chet Holmgren: 6+,yes Victor Wembanyama: 8+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026157cd5e3b75",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026C88657F1DF0-5327C52BC98",
-      "platform": "Kalshi",
-      "title": "yes Houston,yes Alperen Sengun: 10+,yes DeMar DeRozan: 10+,yes De'Aaron Fox: 10+,yes Victor Wembanyama: 8+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c88657f1df0",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026890EE0573B1-3AACF083E9A",
-      "platform": "Kalshi",
-      "title": "yes Golden State,yes Houston,yes San Antonio,yes San Antonio",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026890ee0573b1",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202649908E84700-EB2BC60F4C9",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 20+,yes Alperen Sengun: 10+,yes Kevin Durant: 20+,yes De'Aaron Fox: 15+,yes Stephon Castle: 10+,yes Victor Wembanyama: 20+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202649908e84700",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FB67292FBEE-B7B9691F28D",
-      "platform": "Kalshi",
-      "title": "yes Reed Sheppard: 15+,yes Precious Achiuwa: 10+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026fb67292fbee",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202666F539468D8-2DD343B4974",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 2+,yes Cade Cunningham: 8+,yes Stephon Castle: 7+,yes Stephon Castle: 10+,yes Victor Wembanyama: 20+,yes Chet Holmgren: 8+,yes Victor Wembanyama: 10+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202666f539468d8",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026AE7B2C0D7C3-B0D6EAF920F",
-      "platform": "Kalshi",
-      "title": "yes Karen Khachanov,yes New Mexico,yes Sri Lanka,yes Kamilla Rakhimova",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026ae7b2c0d7c3",
-      "end_date": "2026-03-11T10:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202671F74BBB7F5-6F6C458971D",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 8+,yes Cade Cunningham: 20+,yes Jabari Smith Jr.: 10+,yes Kevin Durant: 20+,yes Stephon Castle: 10+,yes Victor Wembanyama: 20+,yes Stephon Castle: 4+,yes Victor Wembanyama: 12+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202671f74bbb7f5",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026C1C93D75CB1-14E1E253CAE",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 8+,yes Detroit",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c1c93d75cb1",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026B9293B5A449-5ECA38287D2",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 1+,yes Alperen Sengun: 10+,yes Cade Cunningham: 2+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b9293b5a449",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026F4CE458629C-A21B111312C",
-      "platform": "Kalshi",
-      "title": "yes Cleveland,yes Detroit,yes Houston,yes UCLA,yes UCF wins by over 2.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f4ce458629c",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202655879B35D73-235831EAD4E",
-      "platform": "Kalshi",
-      "title": "yes Cleveland,yes Detroit,yes Houston,yes San Antonio,yes Both Teams To Score",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202655879b35d73",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20267FA2CB44B5D-9B4E83662D8",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 8+,yes Cade Cunningham: 20+,yes Jabari Smith Jr.: 10+,yes Stephon Castle: 10+,yes Victor Wembanyama: 20+,yes Stephon Castle: 4+,yes Victor Wembanyama: 12+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20267fa2cb44b5d",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026B77E3F32ADD-8F4F212B4DF",
-      "platform": "Kalshi",
-      "title": "yes Detroit,yes Houston,yes San Antonio wins by over 6.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b77e3f32add",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20264E3D45B064E-A119E9D457A",
-      "platform": "Kalshi",
-      "title": "yes Boston,yes Cleveland,yes Golden State,yes Detroit,yes Houston,yes San Antonio,yes Charlotte,yes Houston,yes Philadelphia,yes San Antonio,yes Atlanta",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264e3d45b064e",
-      "end_date": "2026-03-12T03:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202651D41DFBAAA-1341BF2C417",
-      "platform": "Kalshi",
-      "title": "yes Houston,yes San Antonio,yes Cade Cunningham: 20+,yes De'Aaron Fox: 10+,yes Victor Wembanyama: 20+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202651d41dfbaaa",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026156F2C0F81D-478AE9EBA1C",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 6+,yes RJ Barrett: 15+,yes Alperen Sengun: 6+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026156f2c0f81d",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026EBD70FCC5E0-21492DC92D3",
-      "platform": "Kalshi",
-      "title": "yes UCF wins by over 2.5 Points,no UCLA wins by over 9.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026ebd70fcc5e0",
-      "end_date": "2026-03-11T04:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202671F29BC5F82-F9B2052DF79",
-      "platform": "Kalshi",
-      "title": "yes Gael Monfils,yes Yibing Wu,yes Yannick Hanfmann,yes Felix Auger-Aliassime,yes Karen Khachanov,yes Jiri Lehecka,yes Daniil Medvedev",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202671f29bc5f82",
-      "end_date": "2026-03-08T23:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026C0D84D03E60-49C1F829E10",
-      "platform": "Kalshi",
-      "title": "yes UCLA wins by over 15.5 Points,no Over 155.5 points scored",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c0d84d03e60",
-      "end_date": "2026-03-11T04:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20264CC7D177662-4CD68FC4446",
-      "platform": "Kalshi",
-      "title": "yes New Mexico,yes Villanova,yes Gonzaga,yes UConn,yes Arkansas,yes Vanderbilt,yes Utah St.,yes Wisconsin",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264cc7d177662",
-      "end_date": "2026-03-11T04:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026EFE20ED69F8-C49FB94563C",
-      "platform": "Kalshi",
-      "title": "yes UCF,yes New Mexico,no UCF wins by over 5.5 Points,no UCLA wins by over 12.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026efe20ed69f8",
-      "end_date": "2026-03-11T04:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202666CA7EFC286-EA214DBE0EC",
-      "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 3+,yes Denver,yes Kevin Durant: 20+,no Denver wins by over 13.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202666ca7efc286",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FD2F9CDF95C-8F09D3EEDB7",
-      "platform": "Kalshi",
-      "title": "yes Victor Wembanyama: 1+,yes Victor Wembanyama: 2+,yes Victor Wembanyama: 20+,yes Victor Wembanyama: 8+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026fd2f9cdf95c",
-      "end_date": "2026-03-12T00:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20262F1C83E78A9-BEC15BDF9B6",
-      "platform": "Kalshi",
-      "title": "yes Orlando wins by over 2.5 Points,yes UCF,yes UCLA",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262f1c83e78a9",
-      "end_date": "2026-03-11T03:30:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20269DBD0D0900C-E037D411D3F",
-      "platform": "Kalshi",
-      "title": "yes UCF,yes New Mexico,yes UCLA,yes Villanova,yes Nebraska",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20269dbd0d0900c",
-      "end_date": "2026-03-11T04:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DEC8FB6EA92-E31A9803334",
-      "platform": "Kalshi",
-      "title": "yes Cleveland,yes Detroit,yes Houston,yes Chet Holmgren: 6+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026dec8fb6ea92",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A33508A1BC0-E4B29A78812",
-      "platform": "Kalshi",
-      "title": "yes Houston,yes Jabari Smith Jr.: 10+,yes Alperen Sengun: 6+",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a33508a1bc0",
-      "end_date": "2026-03-12T01:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026B58E632E718-A1B857DFFDC",
-      "platform": "Kalshi",
-      "title": "no Denver wins by over 10.5 Points,yes Detroit wins by over 6.5 Points,yes San Antonio wins by over 6.5 Points",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b58e632e718",
-      "end_date": "2026-03-12T03:00:00Z",
-      "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
-    },
-    {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026F7C65113B51-5A5504B8B79",
-      "platform": "Kalshi",
-      "title": "yes PSG wins by over 1.5 goals,yes Over 1.5 goals scored,yes Over 1.5 goals scored,yes Over 1.5 goals scored",
-      "prob_yes": 0.5,
-      "prob_no": 0.5,
-      "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f7c65113b51",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026ec1c989bff3",
       "end_date": "2026-03-11T20:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026C1C93D75CB1-BB2A3CABF7A",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026AA49221BFF1-C290C928845",
       "platform": "Kalshi",
-      "title": "yes Cade Cunningham: 6+,yes Detroit",
+      "title": "yes Cade Cunningham: 6+,yes Scottie Barnes: 2+,yes Cade Cunningham: 20+,yes De'Aaron Fox: 10+,yes Cade Cunningham: 2+,yes Victor Wembanyama: 8+",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c1c93d75cb1",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026aa49221bff1",
       "end_date": "2026-03-12T00:30:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20262706E7EC734-C27BC864F88",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A608FDD2266-7CB8FEDAD94",
       "platform": "Kalshi",
-      "title": "yes Cleveland,yes Detroit,yes San Antonio,yes Charlotte,yes Stephon Castle: 15+,yes Victor Wembanyama: 25+,yes Victor Wembanyama: 10+",
+      "title": "yes UCLA wins by over 6.5 Points,yes Over 170.5 points scored,yes Over 143.5 points scored",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262706e7ec734",
-      "end_date": "2026-03-12T01:00:00Z",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a608fdd2266",
+      "end_date": "2026-03-11T04:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
-      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S202604BD76F6977-E84B2CE1616",
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20267357F97670B-FC8F2245FDC",
       "platform": "Kalshi",
-      "title": "yes Houston,yes San Antonio,yes Cade Cunningham: 20+,yes Victor Wembanyama: 20+",
+      "title": "yes Duncan Robinson: 1+,yes Chet Holmgren: 1+,yes Ausar Thompson: 2+,yes Cade Cunningham: 2+,yes Tobias Harris: 2+",
       "prob_yes": 0.5,
       "prob_no": 0.5,
       "volume": 0,
-      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202604bd76f6977",
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20267357f97670b",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20267172E46CECC-AA29908306D",
+      "platform": "Kalshi",
+      "title": "yes De'Aaron Fox: 1+,yes De'Aaron Fox: 4+,yes Scottie Barnes: 2+,yes Victor Wembanyama: 20+,yes Victor Wembanyama: 8+",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20267172e46cecc",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026F9BE55129C1-6F8FACA39DE",
+      "platform": "Kalshi",
+      "title": "yes UCLA,yes UCF wins by over 5.5 Points,yes Over 140.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f9be55129c1",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20268F8D411CC6E-C94A6C2C0DF",
+      "platform": "Kalshi",
+      "title": "yes Over 173.5 points scored,no Over 134.5 points scored",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268f8d411cc6e",
+      "end_date": "2026-03-11T04:00:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S2026B2FE891842C-DFC3F1FC30E",
+      "platform": "Kalshi",
+      "title": "yes Victor Wembanyama: 1+,yes De'Aaron Fox: 10+,yes Devin Vassell: 15+,yes Stephon Castle: 15+,yes Victor Wembanyama: 25+,yes Victor Wembanyama: 12+,no Detroit wins by over 12.5 Points,yes San Antonio wins by over 3.5 Points",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b2fe891842c",
+      "end_date": "2026-03-12T00:30:00Z",
+      "category": "general",
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
+    },
+    {
+      "id": "KXMVESPORTSMULTIGAMEEXTENDED-S20265ADFD18F8E7-85CCCC78B21",
+      "platform": "Kalshi",
+      "title": "yes Cleveland,yes Dortmund,yes Galatasaray",
+      "prob_yes": 0.5,
+      "prob_no": 0.5,
+      "volume": 0,
+      "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20265adfd18f8e7",
       "end_date": "2026-03-12T01:00:00Z",
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42274",
@@ -1211,7 +1211,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42273",
@@ -1223,7 +1223,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42267",
@@ -1235,7 +1235,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42148",
@@ -1247,7 +1247,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42135",
@@ -1259,7 +1259,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42103",
@@ -1271,7 +1271,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42088",
@@ -1283,7 +1283,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42071",
@@ -1295,7 +1295,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42034",
@@ -1307,7 +1307,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42033",
@@ -1319,7 +1319,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42032",
@@ -1331,7 +1331,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42031",
@@ -1343,7 +1343,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "42020",
@@ -1355,7 +1355,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41921",
@@ -1367,7 +1367,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41890",
@@ -1379,7 +1379,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41883",
@@ -1391,7 +1391,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41869",
@@ -1403,7 +1403,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41861",
@@ -1415,7 +1415,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41805",
@@ -1427,7 +1427,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41804",
@@ -1439,7 +1439,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41699",
@@ -1451,7 +1451,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41686",
@@ -1463,7 +1463,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41685",
@@ -1475,7 +1475,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41678",
@@ -1487,7 +1487,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41677",
@@ -1499,7 +1499,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41595",
@@ -1511,7 +1511,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41594",
@@ -1523,7 +1523,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41577",
@@ -1535,7 +1535,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41563",
@@ -1547,7 +1547,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41562",
@@ -1559,7 +1559,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41561",
@@ -1571,7 +1571,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41543",
@@ -1583,7 +1583,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41527",
@@ -1595,7 +1595,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41526",
@@ -1607,7 +1607,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41516",
@@ -1619,7 +1619,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41514",
@@ -1631,7 +1631,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41512",
@@ -1643,7 +1643,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41508",
@@ -1655,7 +1655,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41502",
@@ -1667,7 +1667,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41500",
@@ -1679,7 +1679,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41497",
@@ -1691,7 +1691,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41490",
@@ -1703,7 +1703,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41489",
@@ -1715,7 +1715,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41485",
@@ -1727,7 +1727,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41481",
@@ -1739,7 +1739,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41480",
@@ -1751,7 +1751,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41462",
@@ -1763,7 +1763,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41367",
@@ -1775,7 +1775,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41365",
@@ -1787,7 +1787,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     },
     {
       "id": "41364",
@@ -1799,7 +1799,7 @@
       "url": "https://www.metaculus.com",
       "end_date": null,
       "category": "general",
-      "fetched_at": "2026-02-25T06:01:34.568512+00:00"
+      "fetched_at": "2026-02-25T06:03:50.511100+00:00"
     }
   ]
 }
