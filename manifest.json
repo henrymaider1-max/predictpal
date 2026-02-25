@@ -1,0 +1,22 @@
+{
+  "name": "PredictPal",
+  "short_name": "PredictPal",
+  "description": "Live prediction market intelligence dashboard",
+  "start_url": "/predictpal/",
+  "display": "standalone",
+  "background_color": "#0d0f14",
+  "theme_color": "#4f8ef7",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/henrymaider1-max/predictpal/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/henrymaider1-max/predictpal/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
