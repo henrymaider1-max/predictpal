@@ -1,0 +1,38 @@
+name: Run Kelly Engine
+
+on:
+  workflow_run:
+    workflows: ["Fetch Market Data"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  engine:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest data
+        run: git pull
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Kelly engine
+        run: python scripts/kelly_engine.py
+
+      - name: Commit trades
+        run: |
+          git config user.name "predictpal-bot"
+          git config user.email "bot@predictpal"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: update trades + bankroll"
+          git push
