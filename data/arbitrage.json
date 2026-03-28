@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T15:52:17.190010+00:00",
+  "updated_at": "2026-03-28T15:54:39.355166+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.4815,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.4815,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.4815,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     },
     {
       "market_a": {
@@ -58,12 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.4815,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     },
     {
       "market_a": {
@@ -74,12 +74,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.459,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     },
     {
       "market_a": {
@@ -90,12 +90,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.459,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     },
     {
       "market_a": {
@@ -106,12 +106,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.459,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     },
     {
       "market_a": {
@@ -122,12 +122,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Toronto,yes Los Angeles A",
+        "title": "yes Houston,yes Los Angeles C",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026558dd252944"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026b68a95237ab"
       },
       "prob_diff": 0.459,
-      "detected_at": "2026-03-28T15:52:17.190010+00:00"
+      "detected_at": "2026-03-28T15:54:39.355166+00:00"
     }
   ]
 }
