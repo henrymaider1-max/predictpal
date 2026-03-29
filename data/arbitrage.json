@@ -1,4 +1,197 @@
 {
-  "updated_at": "2026-03-29T11:59:21.591146+00:00",
-  "opportunities": []
+  "updated_at": "2026-03-29T12:01:45.914410+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.042,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.458,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.042,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.458,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.042,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.458,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.042,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Houston,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202632a81160569"
+      },
+      "prob_diff": 0.458,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.1365,
+        "url": "https://polymarket.com/event/will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Colorado,yes Tampa Bay wins by over 1.5 runs,yes TB Lightning",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f69d868b8a2"
+      },
+      "prob_diff": 0.3635,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.1365,
+        "url": "https://polymarket.com/event/will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Colorado,yes Tampa Bay wins by over 1.5 runs,yes TB Lightning",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f69d868b8a2"
+      },
+      "prob_diff": 0.3635,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.1365,
+        "url": "https://polymarket.com/event/will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Colorado,yes Tampa Bay wins by over 1.5 runs,yes TB Lightning",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f69d868b8a2"
+      },
+      "prob_diff": 0.3635,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.1365,
+        "url": "https://polymarket.com/event/will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Colorado,yes Tampa Bay wins by over 1.5 runs,yes TB Lightning",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f69d868b8a2"
+      },
+      "prob_diff": 0.3635,
+      "detected_at": "2026-03-29T12:01:45.914410+00:00"
+    }
+  ]
 }
