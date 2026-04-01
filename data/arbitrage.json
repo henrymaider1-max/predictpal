@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T17:44:38.381997+00:00",
+  "updated_at": "2026-04-01T17:47:00.808994+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -12,10 +12,10 @@
         "platform": "Kalshi",
         "title": "yes Boston,yes Boston,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b1add277c82"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026472fa2c5498"
       },
       "prob_diff": 0.4555,
-      "detected_at": "2026-04-01T17:44:38.381997+00:00"
+      "detected_at": "2026-04-01T17:47:00.808994+00:00"
     },
     {
       "market_a": {
@@ -28,10 +28,10 @@
         "platform": "Kalshi",
         "title": "yes Boston,yes Boston,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b1add277c82"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026472fa2c5498"
       },
       "prob_diff": 0.4555,
-      "detected_at": "2026-04-01T17:44:38.381997+00:00"
+      "detected_at": "2026-04-01T17:47:00.808994+00:00"
     },
     {
       "market_a": {
@@ -44,10 +44,10 @@
         "platform": "Kalshi",
         "title": "yes Boston,yes Boston,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b1add277c82"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026472fa2c5498"
       },
       "prob_diff": 0.4555,
-      "detected_at": "2026-04-01T17:44:38.381997+00:00"
+      "detected_at": "2026-04-01T17:47:00.808994+00:00"
     },
     {
       "market_a": {
@@ -60,10 +60,10 @@
         "platform": "Kalshi",
         "title": "yes Boston,yes Boston,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b1add277c82"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026472fa2c5498"
       },
       "prob_diff": 0.4555,
-      "detected_at": "2026-04-01T17:44:38.381997+00:00"
+      "detected_at": "2026-04-01T17:47:00.808994+00:00"
     }
   ]
 }
