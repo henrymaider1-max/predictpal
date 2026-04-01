@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-04-01T00:00:08.963814+00:00",
+  "updated_at": "2026-04-01T03:32:16.266688+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.171,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0025,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Miami,yes San Antonio",
+        "title": "yes Atlanta,yes Golden State",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026c33c14e86ce"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202650dfe597095"
       },
-      "prob_diff": 0.329,
-      "detected_at": "2026-04-01T00:00:08.963814+00:00"
+      "prob_diff": 0.4975,
+      "detected_at": "2026-04-01T03:32:16.266688+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.171,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0025,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Miami,yes San Antonio",
+        "title": "yes Atlanta,yes Golden State",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026c33c14e86ce"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202650dfe597095"
       },
-      "prob_diff": 0.329,
-      "detected_at": "2026-04-01T00:00:08.963814+00:00"
+      "prob_diff": 0.4975,
+      "detected_at": "2026-04-01T03:32:16.266688+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.171,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0025,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Miami,yes San Antonio",
+        "title": "yes Atlanta,yes Golden State",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026c33c14e86ce"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202650dfe597095"
       },
-      "prob_diff": 0.329,
-      "detected_at": "2026-04-01T00:00:08.963814+00:00"
+      "prob_diff": 0.4975,
+      "detected_at": "2026-04-01T03:32:16.266688+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.171,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0025,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Miami,yes San Antonio",
+        "title": "yes Atlanta,yes Golden State",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026c33c14e86ce"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202650dfe597095"
       },
-      "prob_diff": 0.329,
-      "detected_at": "2026-04-01T00:00:08.963814+00:00"
+      "prob_diff": 0.4975,
+      "detected_at": "2026-04-01T03:32:16.266688+00:00"
     }
   ]
 }
