@@ -1,4 +1,197 @@
 {
-  "updated_at": "2026-04-02T01:03:34.870565+00:00",
-  "opportunities": []
+  "updated_at": "2026-04-02T01:05:56.627061+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.009,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Los Angeles D,yes Colorado,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e8b7c86e774"
+      },
+      "prob_diff": 0.491,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.009,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Los Angeles D,yes Colorado,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e8b7c86e774"
+      },
+      "prob_diff": 0.491,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.009,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Los Angeles D,yes Colorado,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e8b7c86e774"
+      },
+      "prob_diff": 0.491,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.009,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Los Angeles D,yes Colorado,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e8b7c86e774"
+      },
+      "prob_diff": 0.491,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Boston,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f83c635dd79"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264aedd40b554"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Boston,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f83c635dd79"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264aedd40b554"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Boston,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f83c635dd79"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264aedd40b554"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Boston,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f83c635dd79"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0435,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264aedd40b554"
+      },
+      "prob_diff": 0.4565,
+      "detected_at": "2026-04-02T01:05:56.627061+00:00"
+    }
+  ]
 }
