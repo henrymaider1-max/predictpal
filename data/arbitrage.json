@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T17:08:50.720024+00:00",
+  "updated_at": "2026-04-02T17:11:15.173442+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes VGK Golden Knights,yes LA Kings",
+        "title": "yes Los Angeles L,yes Phoenix,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b14d9aa22bc"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261f9a1ec56dc"
       },
       "prob_diff": 0.4895,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
+      "detected_at": "2026-04-02T17:11:15.173442+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes VGK Golden Knights,yes LA Kings",
+        "title": "yes Los Angeles L,yes Phoenix,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b14d9aa22bc"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261f9a1ec56dc"
       },
       "prob_diff": 0.4895,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
+      "detected_at": "2026-04-02T17:11:15.173442+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes VGK Golden Knights,yes LA Kings",
+        "title": "yes Los Angeles L,yes Phoenix,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b14d9aa22bc"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261f9a1ec56dc"
       },
       "prob_diff": 0.4895,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
+      "detected_at": "2026-04-02T17:11:15.173442+00:00"
     },
     {
       "market_a": {
@@ -58,76 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes VGK Golden Knights,yes LA Kings",
+        "title": "yes Los Angeles L,yes Phoenix,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b14d9aa22bc"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261f9a1ec56dc"
       },
       "prob_diff": 0.4895,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.17,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes PSG,yes San Antonio",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20260b190800cea"
-      },
-      "prob_diff": 0.33,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.17,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes PSG,yes San Antonio",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20260b190800cea"
-      },
-      "prob_diff": 0.33,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.17,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes PSG,yes San Antonio",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20260b190800cea"
-      },
-      "prob_diff": 0.33,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.17,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes PSG,yes San Antonio",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20260b190800cea"
-      },
-      "prob_diff": 0.33,
-      "detected_at": "2026-04-02T17:08:50.720024+00:00"
+      "detected_at": "2026-04-02T17:11:15.173442+00:00"
     }
   ]
 }
