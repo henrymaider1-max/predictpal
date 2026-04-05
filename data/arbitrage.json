@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T15:58:42.173405+00:00",
+  "updated_at": "2026-04-05T16:40:57.036089+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
       "prob_diff": 0.494,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
       "prob_diff": 0.494,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
       "prob_diff": 0.494,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     },
     {
       "market_a": {
@@ -58,76 +58,76 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
       "prob_diff": 0.494,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
         "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.014,
+        "prob_yes": 0.0155,
         "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
-      "prob_diff": 0.486,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "prob_diff": 0.4845,
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
         "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.014,
+        "prob_yes": 0.0155,
         "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
-      "prob_diff": 0.486,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "prob_diff": 0.4845,
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
         "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.014,
+        "prob_yes": 0.0155,
         "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
-      "prob_diff": 0.486,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "prob_diff": 0.4845,
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
         "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.014,
+        "prob_yes": 0.0155,
         "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Pittsburgh,yes Los Angeles A",
+        "title": "yes Pittsburgh,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20260b00081e9e3"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f924fbac683"
       },
-      "prob_diff": 0.486,
-      "detected_at": "2026-04-05T15:58:42.173405+00:00"
+      "prob_diff": 0.4845,
+      "detected_at": "2026-04-05T16:40:57.036089+00:00"
     }
   ]
 }
