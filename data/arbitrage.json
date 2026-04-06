@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T08:05:06.605101+00:00",
+  "updated_at": "2026-04-06T08:07:31.969195+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -12,10 +12,10 @@
         "platform": "Kalshi",
         "title": "yes Milwaukee,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026162697c5f75"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026f3de6287d1e"
       },
       "prob_diff": 0.3275,
-      "detected_at": "2026-04-06T08:05:06.605101+00:00"
+      "detected_at": "2026-04-06T08:07:31.969195+00:00"
     },
     {
       "market_a": {
@@ -28,10 +28,10 @@
         "platform": "Kalshi",
         "title": "yes Milwaukee,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026162697c5f75"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026f3de6287d1e"
       },
       "prob_diff": 0.3275,
-      "detected_at": "2026-04-06T08:05:06.605101+00:00"
+      "detected_at": "2026-04-06T08:07:31.969195+00:00"
     },
     {
       "market_a": {
@@ -44,10 +44,10 @@
         "platform": "Kalshi",
         "title": "yes Milwaukee,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026162697c5f75"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026f3de6287d1e"
       },
       "prob_diff": 0.3275,
-      "detected_at": "2026-04-06T08:05:06.605101+00:00"
+      "detected_at": "2026-04-06T08:07:31.969195+00:00"
     },
     {
       "market_a": {
@@ -60,10 +60,10 @@
         "platform": "Kalshi",
         "title": "yes Milwaukee,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026162697c5f75"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026f3de6287d1e"
       },
       "prob_diff": 0.3275,
-      "detected_at": "2026-04-06T08:05:06.605101+00:00"
+      "detected_at": "2026-04-06T08:07:31.969195+00:00"
     }
   ]
 }
