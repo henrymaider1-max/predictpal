@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-04-08T12:10:40.211232+00:00",
-  "opportunities": []
+  "updated_at": "2026-04-08T12:13:02.786280+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1595,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Atlanta,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262eb6d69a8a7"
+      },
+      "prob_diff": 0.3405,
+      "detected_at": "2026-04-08T12:13:02.786280+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1595,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Atlanta,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262eb6d69a8a7"
+      },
+      "prob_diff": 0.3405,
+      "detected_at": "2026-04-08T12:13:02.786280+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1595,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Atlanta,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262eb6d69a8a7"
+      },
+      "prob_diff": 0.3405,
+      "detected_at": "2026-04-08T12:13:02.786280+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1595,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Atlanta,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20262eb6d69a8a7"
+      },
+      "prob_diff": 0.3405,
+      "detected_at": "2026-04-08T12:13:02.786280+00:00"
+    }
+  ]
 }
