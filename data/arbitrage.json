@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T07:54:43.961057+00:00",
+  "updated_at": "2026-04-08T07:57:07.440738+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes New York M",
+        "title": "yes Detroit,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026dc9f8ccda9c"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b7162d36f81"
       },
       "prob_diff": 0.4645,
-      "detected_at": "2026-04-08T07:54:43.961057+00:00"
+      "detected_at": "2026-04-08T07:57:07.440738+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes New York M",
+        "title": "yes Detroit,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026dc9f8ccda9c"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b7162d36f81"
       },
       "prob_diff": 0.4645,
-      "detected_at": "2026-04-08T07:54:43.961057+00:00"
+      "detected_at": "2026-04-08T07:57:07.440738+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes New York M",
+        "title": "yes Detroit,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026dc9f8ccda9c"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b7162d36f81"
       },
       "prob_diff": 0.4645,
-      "detected_at": "2026-04-08T07:54:43.961057+00:00"
+      "detected_at": "2026-04-08T07:57:07.440738+00:00"
     },
     {
       "market_a": {
@@ -58,12 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes New York M",
+        "title": "yes Detroit,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026dc9f8ccda9c"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b7162d36f81"
       },
       "prob_diff": 0.4645,
-      "detected_at": "2026-04-08T07:54:43.961057+00:00"
+      "detected_at": "2026-04-08T07:57:07.440738+00:00"
     }
   ]
 }
