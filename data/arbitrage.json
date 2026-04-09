@@ -1,133 +1,69 @@
 {
-  "updated_at": "2026-04-09T05:52:23.470498+00:00",
+  "updated_at": "2026-04-09T07:06:01.818989+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.405,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Detroit,yes New York M,yes NYI Islanders",
+        "title": "yes Houston,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264a22d45a200"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c6b1c283d33"
       },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
+      "prob_diff": 0.095,
+      "detected_at": "2026-04-09T07:06:01.818989+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.405,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes NYI Islanders",
+        "title": "yes Houston,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e73d6e92edd"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c6b1c283d33"
       },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
+      "prob_diff": 0.095,
+      "detected_at": "2026-04-09T07:06:01.818989+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.405,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Detroit,yes New York M,yes NYI Islanders",
+        "title": "yes Houston,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264a22d45a200"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c6b1c283d33"
       },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
+      "prob_diff": 0.095,
+      "detected_at": "2026-04-09T07:06:01.818989+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.405,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes NYI Islanders",
+        "title": "yes Houston,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e73d6e92edd"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026c6b1c283d33"
       },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Detroit,yes New York M,yes NYI Islanders",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264a22d45a200"
-      },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes New York M,yes NYI Islanders",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e73d6e92edd"
-      },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Detroit,yes New York M,yes NYI Islanders",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264a22d45a200"
-      },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.003,
-        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes New York M,yes NYI Islanders",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e73d6e92edd"
-      },
-      "prob_diff": 0.497,
-      "detected_at": "2026-04-09T05:52:23.470498+00:00"
+      "prob_diff": 0.095,
+      "detected_at": "2026-04-09T07:06:01.818989+00:00"
     }
   ]
 }
