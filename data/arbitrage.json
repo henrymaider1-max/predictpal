@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-04-10T07:10:14.141664+00:00",
-  "opportunities": []
+  "updated_at": "2026-04-10T07:12:36.791154+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes Golden State",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266a359cb5990"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-10T07:12:36.791154+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes Golden State",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266a359cb5990"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-10T07:12:36.791154+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes Golden State",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266a359cb5990"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-10T07:12:36.791154+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Golden State Warriors win the 2026 NBA Finals?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes Golden State",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266a359cb5990"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-10T07:12:36.791154+00:00"
+    }
+  ]
 }
