@@ -1,4 +1,133 @@
 {
-  "updated_at": "2026-04-10T11:07:59.910848+00:00",
-  "opportunities": []
+  "updated_at": "2026-04-10T11:10:22.770956+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0115,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4885,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0115,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4885,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0115,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4885,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0115,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Indiana,yes Los Angeles L",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026b6b0753c0db"
+      },
+      "prob_diff": 0.4885,
+      "detected_at": "2026-04-10T11:10:22.770956+00:00"
+    }
+  ]
 }
