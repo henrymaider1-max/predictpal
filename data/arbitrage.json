@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-04-10T17:33:37.294687+00:00",
-  "opportunities": []
+  "updated_at": "2026-04-10T17:35:59.783682+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0395,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 2.5 goals scored,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202636e3ac90121"
+      },
+      "prob_diff": 0.4605,
+      "detected_at": "2026-04-10T17:35:59.783682+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0395,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 2.5 goals scored,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202636e3ac90121"
+      },
+      "prob_diff": 0.4605,
+      "detected_at": "2026-04-10T17:35:59.783682+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0395,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 2.5 goals scored,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202636e3ac90121"
+      },
+      "prob_diff": 0.4605,
+      "detected_at": "2026-04-10T17:35:59.783682+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0395,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 2.5 goals scored,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202636e3ac90121"
+      },
+      "prob_diff": 0.4605,
+      "detected_at": "2026-04-10T17:35:59.783682+00:00"
+    }
+  ]
 }
