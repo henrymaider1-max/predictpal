@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T05:47:54.982167+00:00",
+  "updated_at": "2026-04-11T05:50:16.013500+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4945,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4945,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4945,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     },
     {
       "market_a": {
@@ -58,12 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4945,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     },
     {
       "market_a": {
@@ -74,12 +74,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4875,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     },
     {
       "market_a": {
@@ -90,12 +90,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4875,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     },
     {
       "market_a": {
@@ -106,12 +106,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4875,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     },
     {
       "market_a": {
@@ -122,76 +122,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Arizona,yes Los Angeles A",
+        "title": "yes Arizona,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d5678ae6b4f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ff83dc0a89d"
       },
       "prob_diff": 0.4875,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.0395,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Miami,yes New York Y",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202665ea87b0eaa"
-      },
-      "prob_diff": 0.4605,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.0395,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Miami,yes New York Y",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202665ea87b0eaa"
-      },
-      "prob_diff": 0.4605,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.0395,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Miami,yes New York Y",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202665ea87b0eaa"
-      },
-      "prob_diff": 0.4605,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.0395,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Miami,yes New York Y",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202665ea87b0eaa"
-      },
-      "prob_diff": 0.4605,
-      "detected_at": "2026-04-11T05:47:54.982167+00:00"
+      "detected_at": "2026-04-11T05:50:16.013500+00:00"
     }
   ]
 }
