@@ -1,69 +1,133 @@
 {
-  "updated_at": "2026-04-11T09:12:59.175155+00:00",
+  "updated_at": "2026-04-11T09:15:20.495419+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.405,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Philadelphia,yes Oklahoma City",
+        "title": "yes Toronto,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266cdc5484a92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
       },
-      "prob_diff": 0.095,
-      "detected_at": "2026-04-11T09:12:59.175155+00:00"
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.405,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Philadelphia,yes Oklahoma City",
+        "title": "yes Toronto,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266cdc5484a92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
       },
-      "prob_diff": 0.095,
-      "detected_at": "2026-04-11T09:12:59.175155+00:00"
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.405,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Philadelphia,yes Oklahoma City",
+        "title": "yes Toronto,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266cdc5484a92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
       },
-      "prob_diff": 0.095,
-      "detected_at": "2026-04-11T09:12:59.175155+00:00"
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.405,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+        "prob_yes": 0.0055,
+        "url": "https://polymarket.com/event/will-the-los-angeles-clippers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Philadelphia,yes Oklahoma City",
+        "title": "yes Toronto,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20266cdc5484a92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
       },
-      "prob_diff": 0.095,
-      "detected_at": "2026-04-11T09:12:59.175155+00:00"
+      "prob_diff": 0.4945,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0135,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Toronto,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
+      },
+      "prob_diff": 0.4865,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0135,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Toronto,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
+      },
+      "prob_diff": 0.4865,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0135,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Toronto,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
+      },
+      "prob_diff": 0.4865,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.0135,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Toronto,yes Los Angeles D",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261c5d94165c7"
+      },
+      "prob_diff": 0.4865,
+      "detected_at": "2026-04-11T09:15:20.495419+00:00"
     }
   ]
 }
