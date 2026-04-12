@@ -1,4 +1,133 @@
 {
-  "updated_at": "2026-04-12T12:03:43.017271+00:00",
-  "opportunities": []
+  "updated_at": "2026-04-12T12:06:05.549177+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New York Y,yes Boston,yes NYI Islanders",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20266166d8f848d"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New York Y,yes Boston,yes NYI Islanders",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20266166d8f848d"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New York Y,yes Boston,yes NYI Islanders",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20266166d8f848d"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.0015,
+        "url": "https://polymarket.com/event/will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New York Y,yes Boston,yes NYI Islanders",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20266166d8f848d"
+      },
+      "prob_diff": 0.4985,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0385,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Osasuna,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e57047f8a32"
+      },
+      "prob_diff": 0.4615,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0385,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Osasuna,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e57047f8a32"
+      },
+      "prob_diff": 0.4615,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0385,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Osasuna,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e57047f8a32"
+      },
+      "prob_diff": 0.4615,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0385,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Osasuna,yes New York Y",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026e57047f8a32"
+      },
+      "prob_diff": 0.4615,
+      "detected_at": "2026-04-12T12:06:05.549177+00:00"
+    }
+  ]
 }
