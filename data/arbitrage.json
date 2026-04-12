@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T05:52:12.966607+00:00",
+  "updated_at": "2026-04-12T07:00:06.227884+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4955,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4955,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4955,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     },
     {
       "market_a": {
@@ -58,12 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4955,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     },
     {
       "market_a": {
@@ -74,12 +74,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4925,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     },
     {
       "market_a": {
@@ -90,12 +90,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4925,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     },
     {
       "market_a": {
@@ -106,12 +106,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4925,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     },
     {
       "market_a": {
@@ -122,12 +122,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Milwaukee,yes Los Angeles D",
+        "title": "yes Indiana,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20264a802875e4f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a1ce1580486"
       },
       "prob_diff": 0.4925,
-      "detected_at": "2026-04-12T05:52:12.966607+00:00"
+      "detected_at": "2026-04-12T07:00:06.227884+00:00"
     }
   ]
 }
