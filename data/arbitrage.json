@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T23:03:29.460508+00:00",
+  "updated_at": "2026-04-13T23:54:15.994938+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes Los Angeles D,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,yes BUF Sabres,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202611613ba12a3"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cef1c19aa42"
       },
       "prob_diff": 0.4905,
-      "detected_at": "2026-04-13T23:03:29.460508+00:00"
+      "detected_at": "2026-04-13T23:54:15.994938+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes Los Angeles D,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,yes BUF Sabres,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202611613ba12a3"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cef1c19aa42"
       },
       "prob_diff": 0.4905,
-      "detected_at": "2026-04-13T23:03:29.460508+00:00"
+      "detected_at": "2026-04-13T23:54:15.994938+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes Los Angeles D,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,yes BUF Sabres,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202611613ba12a3"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cef1c19aa42"
       },
       "prob_diff": 0.4905,
-      "detected_at": "2026-04-13T23:03:29.460508+00:00"
+      "detected_at": "2026-04-13T23:54:15.994938+00:00"
     },
     {
       "market_a": {
@@ -58,12 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Atlanta,yes Los Angeles D,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,yes BUF Sabres,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202611613ba12a3"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cef1c19aa42"
       },
       "prob_diff": 0.4905,
-      "detected_at": "2026-04-13T23:03:29.460508+00:00"
+      "detected_at": "2026-04-13T23:54:15.994938+00:00"
     }
   ]
 }
