@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T03:16:48.165441+00:00",
+  "updated_at": "2026-04-14T03:19:10.219243+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Texas,yes Los Angeles D,yes Cincinnati,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,no Over 9.5 runs scored,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ccc9ffa555f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202619a30a79e6c"
       },
       "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
+      "detected_at": "2026-04-14T03:19:10.219243+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Charlotte,yes Phoenix,yes Los Angeles C,yes Philadelphia,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,no Over 9.5 runs scored,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026089bcb98691"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202619a30a79e6c"
       },
       "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
+      "detected_at": "2026-04-14T03:19:10.219243+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Texas,yes Los Angeles D,yes Cincinnati,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,no Over 9.5 runs scored,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ccc9ffa555f"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202619a30a79e6c"
       },
       "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
+      "detected_at": "2026-04-14T03:19:10.219243+00:00"
     },
     {
       "market_a": {
@@ -58,76 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Charlotte,yes Phoenix,yes Los Angeles C,yes Philadelphia,yes LA Kings",
+        "title": "yes Texas,yes Los Angeles D,no Over 9.5 runs scored,yes LA Kings",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026089bcb98691"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202619a30a79e6c"
       },
       "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0115,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Texas,yes Los Angeles D,yes Cincinnati,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ccc9ffa555f"
-      },
-      "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0115,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Charlotte,yes Phoenix,yes Los Angeles C,yes Philadelphia,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026089bcb98691"
-      },
-      "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0115,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Texas,yes Los Angeles D,yes Cincinnati,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ccc9ffa555f"
-      },
-      "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0115,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Charlotte,yes Phoenix,yes Los Angeles C,yes Philadelphia,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026089bcb98691"
-      },
-      "prob_diff": 0.4885,
-      "detected_at": "2026-04-14T03:16:48.165441+00:00"
+      "detected_at": "2026-04-14T03:19:10.219243+00:00"
     }
   ]
 }
