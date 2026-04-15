@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T19:39:00.313193+00:00",
+  "updated_at": "2026-04-15T19:41:22.736059+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -15,7 +15,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4965,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -31,7 +31,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4965,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -47,7 +47,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4965,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -63,7 +63,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4965,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -79,7 +79,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4835,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -95,7 +95,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4835,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -111,7 +111,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4835,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -127,7 +127,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20261a41026a284"
       },
       "prob_diff": 0.4835,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -143,7 +143,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264ad93ec8f0d"
       },
       "prob_diff": 0.4615,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -159,7 +159,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264ad93ec8f0d"
       },
       "prob_diff": 0.4615,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -175,7 +175,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264ad93ec8f0d"
       },
       "prob_diff": 0.4615,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     },
     {
       "market_a": {
@@ -191,7 +191,7 @@
         "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264ad93ec8f0d"
       },
       "prob_diff": 0.4615,
-      "detected_at": "2026-04-15T19:39:00.313193+00:00"
+      "detected_at": "2026-04-15T19:41:22.736059+00:00"
     }
   ]
 }
