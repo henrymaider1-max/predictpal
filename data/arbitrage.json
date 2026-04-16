@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-04-16T16:51:27.920588+00:00",
-  "opportunities": []
+  "updated_at": "2026-04-16T17:59:35.913146+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.021,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes Los Angeles A,yes Texas,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202621036b51e22"
+      },
+      "prob_diff": 0.479,
+      "detected_at": "2026-04-16T17:59:35.913146+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.021,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes Los Angeles A,yes Texas,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202621036b51e22"
+      },
+      "prob_diff": 0.479,
+      "detected_at": "2026-04-16T17:59:35.913146+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.021,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes Los Angeles A,yes Texas,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202621036b51e22"
+      },
+      "prob_diff": 0.479,
+      "detected_at": "2026-04-16T17:59:35.913146+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+        "prob_yes": 0.021,
+        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes Los Angeles A,yes Texas,yes LA Kings",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202621036b51e22"
+      },
+      "prob_diff": 0.479,
+      "detected_at": "2026-04-16T17:59:35.913146+00:00"
+    }
+  ]
 }
