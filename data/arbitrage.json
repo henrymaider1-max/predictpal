@@ -1,133 +1,69 @@
 {
-  "updated_at": "2026-04-22T05:15:46.480372+00:00",
+  "updated_at": "2026-04-22T05:18:08.758593+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.024,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 196.5 points scored,yes LA Kings",
+        "title": "yes Los Angeles L,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202602c90124115"
       },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "prob_diff": 0.476,
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.024,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 199.5 points scored,yes LA Kings",
+        "title": "yes Los Angeles L,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202602c90124115"
       },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "prob_diff": 0.476,
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.024,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 196.5 points scored,yes LA Kings",
+        "title": "yes Los Angeles L,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202602c90124115"
       },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "prob_diff": 0.476,
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.024,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 199.5 points scored,yes LA Kings",
+        "title": "yes Los Angeles L,yes Los Angeles L",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202602c90124115"
       },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 196.5 points scored,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
-      },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 199.5 points scored,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
-      },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 196.5 points scored,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
-      },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.008,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes Los Angeles L,no Over 199.5 points scored,yes LA Kings",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d1061ff4f92"
-      },
-      "prob_diff": 0.492,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "prob_diff": 0.476,
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     },
     {
       "market_a": {
@@ -138,12 +74,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
+        "title": "yes Houston,yes New York M",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0104112ccb"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026fdef75ed17f"
       },
       "prob_diff": 0.4695,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     },
     {
       "market_a": {
@@ -154,12 +90,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
+        "title": "yes Houston,yes New York M",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0104112ccb"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026fdef75ed17f"
       },
       "prob_diff": 0.4695,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     },
     {
       "market_a": {
@@ -170,12 +106,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
+        "title": "yes Houston,yes New York M",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0104112ccb"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026fdef75ed17f"
       },
       "prob_diff": 0.4695,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     },
     {
       "market_a": {
@@ -186,12 +122,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
+        "title": "yes Houston,yes New York M",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0104112ccb"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026fdef75ed17f"
       },
       "prob_diff": 0.4695,
-      "detected_at": "2026-04-22T05:15:46.480372+00:00"
+      "detected_at": "2026-04-22T05:18:08.758593+00:00"
     }
   ]
 }
