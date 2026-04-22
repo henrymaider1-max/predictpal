@@ -1,69 +1,133 @@
 {
-  "updated_at": "2026-04-22T07:08:21.567464+00:00",
+  "updated_at": "2026-04-22T07:10:45.055645+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.0265,
-        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0285,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Portland,yes Los Angeles L",
+        "title": "yes PSG,yes New York Y",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0beae050c4"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d7dcf54f6af"
       },
-      "prob_diff": 0.4735,
-      "detected_at": "2026-04-22T07:08:21.567464+00:00"
+      "prob_diff": 0.4715,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.0265,
-        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0285,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Portland,yes Los Angeles L",
+        "title": "yes PSG,yes New York Y",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0beae050c4"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d7dcf54f6af"
       },
-      "prob_diff": 0.4735,
-      "detected_at": "2026-04-22T07:08:21.567464+00:00"
+      "prob_diff": 0.4715,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.0265,
-        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0285,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Portland,yes Los Angeles L",
+        "title": "yes PSG,yes New York Y",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0beae050c4"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d7dcf54f6af"
       },
-      "prob_diff": 0.4735,
-      "detected_at": "2026-04-22T07:08:21.567464+00:00"
+      "prob_diff": 0.4715,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
-        "prob_yes": 0.0265,
-        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0285,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Portland,yes Los Angeles L",
+        "title": "yes PSG,yes New York Y",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026a0beae050c4"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026d7dcf54f6af"
       },
-      "prob_diff": 0.4735,
-      "detected_at": "2026-04-22T07:08:21.567464+00:00"
+      "prob_diff": 0.4715,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1225,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268c7db08cbb4"
+      },
+      "prob_diff": 0.3775,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1225,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268c7db08cbb4"
+      },
+      "prob_diff": 0.3775,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1225,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268c7db08cbb4"
+      },
+      "prob_diff": 0.3775,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1225,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Philadelphia,yes San Antonio",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268c7db08cbb4"
+      },
+      "prob_diff": 0.3775,
+      "detected_at": "2026-04-22T07:10:45.055645+00:00"
     }
   ]
 }
