@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-04-26T05:18:10.477178+00:00",
+  "updated_at": "2026-04-26T07:06:23.435502+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0015,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.04,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes BUF Sabres,yes LA Kings",
+        "title": "yes Colorado,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263e7b8ee4cc8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026fba426eaba2"
       },
-      "prob_diff": 0.4985,
-      "detected_at": "2026-04-26T05:18:10.477178+00:00"
+      "prob_diff": 0.46,
+      "detected_at": "2026-04-26T07:06:23.435502+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0015,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.04,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes BUF Sabres,yes LA Kings",
+        "title": "yes Colorado,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263e7b8ee4cc8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026fba426eaba2"
       },
-      "prob_diff": 0.4985,
-      "detected_at": "2026-04-26T05:18:10.477178+00:00"
+      "prob_diff": 0.46,
+      "detected_at": "2026-04-26T07:06:23.435502+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0015,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.04,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes BUF Sabres,yes LA Kings",
+        "title": "yes Colorado,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263e7b8ee4cc8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026fba426eaba2"
       },
-      "prob_diff": 0.4985,
-      "detected_at": "2026-04-26T05:18:10.477178+00:00"
+      "prob_diff": 0.46,
+      "detected_at": "2026-04-26T07:06:23.435502+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-        "prob_yes": 0.0015,
-        "url": "https://polymarket.com/event/will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+        "title": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+        "prob_yes": 0.04,
+        "url": "https://polymarket.com/event/will-the-los-angeles-lakers-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Los Angeles L,yes BUF Sabres,yes LA Kings",
+        "title": "yes Colorado,yes Los Angeles D",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263e7b8ee4cc8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026fba426eaba2"
       },
-      "prob_diff": 0.4985,
-      "detected_at": "2026-04-26T05:18:10.477178+00:00"
+      "prob_diff": 0.46,
+      "detected_at": "2026-04-26T07:06:23.435502+00:00"
     }
   ]
 }
