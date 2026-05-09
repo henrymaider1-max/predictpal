@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-05-09T11:11:42.497354+00:00",
+  "updated_at": "2026-05-09T12:00:10.087503+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.605,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0995,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Texas,yes Oklahoma City",
+        "title": "yes Liverpool,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202604534270d73"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026928927104de"
       },
-      "prob_diff": 0.105,
-      "detected_at": "2026-05-09T11:11:42.497354+00:00"
+      "prob_diff": 0.4005,
+      "detected_at": "2026-05-09T12:00:10.087503+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.605,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0995,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Texas,yes Oklahoma City",
+        "title": "yes Liverpool,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202604534270d73"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026928927104de"
       },
-      "prob_diff": 0.105,
-      "detected_at": "2026-05-09T11:11:42.497354+00:00"
+      "prob_diff": 0.4005,
+      "detected_at": "2026-05-09T12:00:10.087503+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.605,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0995,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Texas,yes Oklahoma City",
+        "title": "yes Liverpool,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202604534270d73"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026928927104de"
       },
-      "prob_diff": 0.105,
-      "detected_at": "2026-05-09T11:11:42.497354+00:00"
+      "prob_diff": 0.4005,
+      "detected_at": "2026-05-09T12:00:10.087503+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-        "prob_yes": 0.605,
-        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.0995,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Texas,yes Oklahoma City",
+        "title": "yes Liverpool,yes New York",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202604534270d73"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026928927104de"
       },
-      "prob_diff": 0.105,
-      "detected_at": "2026-05-09T11:11:42.497354+00:00"
+      "prob_diff": 0.4005,
+      "detected_at": "2026-05-09T12:00:10.087503+00:00"
     }
   ]
 }
