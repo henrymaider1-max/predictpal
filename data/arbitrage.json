@@ -1,69 +1,197 @@
 {
-  "updated_at": "2026-05-10T11:12:06.446243+00:00",
+  "updated_at": "2026-05-10T11:14:31.136979+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1155,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Colorado,yes New York M",
+        "title": "yes Washington,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263c1329f5cc6"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
       },
-      "prob_diff": 0.3845,
-      "detected_at": "2026-05-10T11:12:06.446243+00:00"
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1155,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Colorado,yes New York M",
+        "title": "yes Miami,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263c1329f5cc6"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
       },
-      "prob_diff": 0.3845,
-      "detected_at": "2026-05-10T11:12:06.446243+00:00"
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1155,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Colorado,yes New York M",
+        "title": "yes Colorado,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263c1329f5cc6"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268ddcc949f35"
       },
-      "prob_diff": 0.3845,
-      "detected_at": "2026-05-10T11:12:06.446243+00:00"
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1155,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Colorado,yes New York M",
+        "title": "yes Washington,yes Oklahoma City",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20263c1329f5cc6"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
       },
-      "prob_diff": 0.3845,
-      "detected_at": "2026-05-10T11:12:06.446243+00:00"
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Miami,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Colorado,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268ddcc949f35"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Miami,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Colorado,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268ddcc949f35"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Washington,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Miami,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202674e9dfc81f9"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "prob_yes": 0.605,
+        "url": "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Colorado,yes Oklahoma City",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s20268ddcc949f35"
+      },
+      "prob_diff": 0.105,
+      "detected_at": "2026-05-10T11:14:31.136979+00:00"
     }
   ]
 }
