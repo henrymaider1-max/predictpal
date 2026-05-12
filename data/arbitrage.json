@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-05-12T12:12:57.492421+00:00",
-  "opportunities": []
+  "updated_at": "2026-05-12T14:50:39.489281+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.1375,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Cleveland,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026806c207e310"
+      },
+      "prob_diff": 0.3625,
+      "detected_at": "2026-05-12T14:50:39.489281+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.1375,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Cleveland,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026806c207e310"
+      },
+      "prob_diff": 0.3625,
+      "detected_at": "2026-05-12T14:50:39.489281+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.1375,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Cleveland,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026806c207e310"
+      },
+      "prob_diff": 0.3625,
+      "detected_at": "2026-05-12T14:50:39.489281+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will the New York Knicks win the 2026 NBA Finals?",
+        "prob_yes": 0.1375,
+        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Cleveland,yes New York",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026806c207e310"
+      },
+      "prob_diff": 0.3625,
+      "detected_at": "2026-05-12T14:50:39.489281+00:00"
+    }
+  ]
 }
