@@ -1,69 +1,21 @@
 {
-  "updated_at": "2026-05-12T07:21:35.715342+00:00",
+  "updated_at": "2026-05-12T10:01:40.366754+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1405,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.1765,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York Y,yes Yes",
+        "title": "San Antonio wins by over 3.5 points?",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202694f8598005e"
+        "url": "https://kalshi.com/markets/kxnbaspread-26may12minsas"
       },
-      "prob_diff": 0.3595,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1405,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes New York Y,yes Yes",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202694f8598005e"
-      },
-      "prob_diff": 0.3595,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1405,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes New York Y,yes Yes",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202694f8598005e"
-      },
-      "prob_diff": 0.3595,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1405,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes New York Y,yes Yes",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202694f8598005e"
-      },
-      "prob_diff": 0.3595,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
+      "prob_diff": 0.3235,
+      "detected_at": "2026-05-12T10:01:40.366754+00:00"
     },
     {
       "market_a": {
@@ -74,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes San Francisco,yes San Antonio",
+        "title": "San Antonio wins by over 3.5 points?",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264d7dcbbd9b9"
+        "url": "https://kalshi.com/markets/kxnbaspread-26may12minsas"
       },
       "prob_diff": 0.3235,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
+      "detected_at": "2026-05-12T10:01:40.366754+00:00"
     },
     {
       "market_a": {
@@ -90,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes San Francisco,yes San Antonio",
+        "title": "San Antonio wins by over 3.5 points?",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264d7dcbbd9b9"
+        "url": "https://kalshi.com/markets/kxnbaspread-26may12minsas"
       },
       "prob_diff": 0.3235,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
+      "detected_at": "2026-05-12T10:01:40.366754+00:00"
     },
     {
       "market_a": {
@@ -106,28 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes San Francisco,yes San Antonio",
+        "title": "San Antonio wins by over 3.5 points?",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264d7dcbbd9b9"
+        "url": "https://kalshi.com/markets/kxnbaspread-26may12minsas"
       },
       "prob_diff": 0.3235,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-        "prob_yes": 0.1765,
-        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes San Francisco,yes San Antonio",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264d7dcbbd9b9"
-      },
-      "prob_diff": 0.3235,
-      "detected_at": "2026-05-12T07:21:35.715342+00:00"
+      "detected_at": "2026-05-12T10:01:40.366754+00:00"
     }
   ]
 }
