@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-05-12T04:09:59.638627+00:00",
+  "updated_at": "2026-05-12T04:12:22.451931+00:00",
   "opportunities": [
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1385,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.178,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Cleveland,yes New York",
+        "title": "yes Detroit,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265a9a79cbfb8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265d5246d9bf7"
       },
-      "prob_diff": 0.3615,
-      "detected_at": "2026-05-12T04:09:59.638627+00:00"
+      "prob_diff": 0.322,
+      "detected_at": "2026-05-12T04:12:22.451931+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1385,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.178,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Cleveland,yes New York",
+        "title": "yes Detroit,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265a9a79cbfb8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265d5246d9bf7"
       },
-      "prob_diff": 0.3615,
-      "detected_at": "2026-05-12T04:09:59.638627+00:00"
+      "prob_diff": 0.322,
+      "detected_at": "2026-05-12T04:12:22.451931+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1385,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.178,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Cleveland,yes New York",
+        "title": "yes Detroit,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265a9a79cbfb8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265d5246d9bf7"
       },
-      "prob_diff": 0.3615,
-      "detected_at": "2026-05-12T04:09:59.638627+00:00"
+      "prob_diff": 0.322,
+      "detected_at": "2026-05-12T04:12:22.451931+00:00"
     },
     {
       "market_a": {
         "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.1385,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
+        "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "prob_yes": 0.178,
+        "url": "https://polymarket.com/event/will-the-san-antonio-spurs-win-the-2026-nba-finals"
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes Cleveland,yes New York",
+        "title": "yes Detroit,yes San Antonio",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265a9a79cbfb8"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20265d5246d9bf7"
       },
-      "prob_diff": 0.3615,
-      "detected_at": "2026-05-12T04:09:59.638627+00:00"
+      "prob_diff": 0.322,
+      "detected_at": "2026-05-12T04:12:22.451931+00:00"
     }
   ]
 }
