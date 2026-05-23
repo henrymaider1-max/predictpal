@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T05:49:47.004253+00:00",
+  "updated_at": "2026-05-23T05:52:10.079841+00:00",
   "opportunities": [
     {
       "market_a": {
@@ -10,12 +10,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
+        "title": "yes New York Y,yes Yes",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ae2c96d222f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cb487ca379c"
       },
       "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
+      "detected_at": "2026-05-23T05:52:10.079841+00:00"
     },
     {
       "market_a": {
@@ -26,12 +26,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "no New York Y wins by over 1.5 runs,yes New York",
+        "title": "yes New York Y,yes Yes",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026bfeab27e6c7"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cb487ca379c"
       },
       "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
+      "detected_at": "2026-05-23T05:52:10.079841+00:00"
     },
     {
       "market_a": {
@@ -42,12 +42,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
+        "title": "yes New York Y,yes Yes",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ae2c96d222f"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cb487ca379c"
       },
       "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
+      "detected_at": "2026-05-23T05:52:10.079841+00:00"
     },
     {
       "market_a": {
@@ -58,76 +58,12 @@
       },
       "market_b": {
         "platform": "Kalshi",
-        "title": "no New York Y wins by over 1.5 runs,yes New York",
+        "title": "yes New York Y,yes Yes",
         "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026bfeab27e6c7"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026cb487ca379c"
       },
       "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.173,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ae2c96d222f"
-      },
-      "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.173,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "no New York Y wins by over 1.5 runs,yes New York",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026bfeab27e6c7"
-      },
-      "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.173,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "yes New York M,yes New York",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026ae2c96d222f"
-      },
-      "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
-    },
-    {
-      "market_a": {
-        "platform": "Polymarket",
-        "title": "Will the New York Knicks win the 2026 NBA Finals?",
-        "prob_yes": 0.173,
-        "url": "https://polymarket.com/event/will-the-new-york-knicks-win-the-2026-nba-finals"
-      },
-      "market_b": {
-        "platform": "Kalshi",
-        "title": "no New York Y wins by over 1.5 runs,yes New York",
-        "prob_yes": 0.5,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026bfeab27e6c7"
-      },
-      "prob_diff": 0.327,
-      "detected_at": "2026-05-23T05:49:47.004253+00:00"
+      "detected_at": "2026-05-23T05:52:10.079841+00:00"
     }
   ]
 }
