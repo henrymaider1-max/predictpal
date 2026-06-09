@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-06-09T12:24:30.740354+00:00",
-  "opportunities": []
+  "updated_at": "2026-06-09T12:26:54.846708+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-saudi-arabia-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Australia,yes Saudi Arabia",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202635535730a34"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-09T12:26:54.846708+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-saudi-arabia-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Australia,yes Saudi Arabia",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202635535730a34"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-09T12:26:54.846708+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-saudi-arabia-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Australia,yes Saudi Arabia",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202635535730a34"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-09T12:26:54.846708+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-saudi-arabia-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Australia,yes Saudi Arabia",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s202635535730a34"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-09T12:26:54.846708+00:00"
+    }
+  ]
 }
