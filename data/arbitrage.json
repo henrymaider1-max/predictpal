@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-06-14T20:05:22.248975+00:00",
-  "opportunities": []
+  "updated_at": "2026-06-14T21:23:45.476432+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Ivory Coast win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0035,
+        "url": "https://polymarket.com/event/will-ivory-coast-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 8.5 runs scored,yes Ivory Coast",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f78e42223c8"
+      },
+      "prob_diff": 0.4965,
+      "detected_at": "2026-06-14T21:23:45.476432+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Ivory Coast win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0035,
+        "url": "https://polymarket.com/event/will-ivory-coast-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 8.5 runs scored,yes Ivory Coast",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f78e42223c8"
+      },
+      "prob_diff": 0.4965,
+      "detected_at": "2026-06-14T21:23:45.476432+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Ivory Coast win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0035,
+        "url": "https://polymarket.com/event/will-ivory-coast-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 8.5 runs scored,yes Ivory Coast",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f78e42223c8"
+      },
+      "prob_diff": 0.4965,
+      "detected_at": "2026-06-14T21:23:45.476432+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Ivory Coast win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0035,
+        "url": "https://polymarket.com/event/will-ivory-coast-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "no Over 8.5 runs scored,yes Ivory Coast",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s2026f78e42223c8"
+      },
+      "prob_diff": 0.4965,
+      "detected_at": "2026-06-14T21:23:45.476432+00:00"
+    }
+  ]
 }
