@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-06-14T08:52:04.148489+00:00",
-  "opportunities": []
+  "updated_at": "2026-06-14T11:19:21.719577+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will South Africa win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-south-africa-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Germany,yes South Africa",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202639f7ea1ded7"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-14T11:19:21.719577+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will South Africa win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-south-africa-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Germany,yes South Africa",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202639f7ea1ded7"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-14T11:19:21.719577+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will South Africa win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-south-africa-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Germany,yes South Africa",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202639f7ea1ded7"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-14T11:19:21.719577+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will South Africa win the 2026 FIFA World Cup?",
+        "prob_yes": 0.0005,
+        "url": "https://polymarket.com/event/will-south-africa-win-the-2026-fifa-world-cup"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Germany,yes South Africa",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended-s202639f7ea1ded7"
+      },
+      "prob_diff": 0.4995,
+      "detected_at": "2026-06-14T11:19:21.719577+00:00"
+    }
+  ]
 }
