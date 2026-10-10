@@ -1,4 +1,133 @@
 {
-  "updated_at": "2026-10-10T06:54:51.785913+00:00",
-  "opportunities": []
+  "updated_at": "2026-10-10T06:57:17.654844+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264c2b988ee29"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262f1b4d675d8"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264c2b988ee29"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262f1b4d675d8"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264c2b988ee29"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262f1b4d675d8"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20264c2b988ee29"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0255,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262f1b4d675d8"
+      },
+      "prob_diff": 0.4745,
+      "detected_at": "2026-10-10T06:57:17.654844+00:00"
+    }
+  ]
 }
