@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-10-13T11:23:12.066913+00:00",
-  "opportunities": []
+  "updated_at": "2026-10-13T11:25:36.210563+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0215,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Mike Rogers,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262b18ec7f223"
+      },
+      "prob_diff": 0.4785,
+      "detected_at": "2026-10-13T11:25:36.210563+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0215,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Mike Rogers,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262b18ec7f223"
+      },
+      "prob_diff": 0.4785,
+      "detected_at": "2026-10-13T11:25:36.210563+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0215,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Mike Rogers,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262b18ec7f223"
+      },
+      "prob_diff": 0.4785,
+      "detected_at": "2026-10-13T11:25:36.210563+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0215,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Mike Rogers,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20262b18ec7f223"
+      },
+      "prob_diff": 0.4785,
+      "detected_at": "2026-10-13T11:25:36.210563+00:00"
+    }
+  ]
 }
