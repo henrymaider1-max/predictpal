@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-10-14T07:07:19.097317+00:00",
-  "opportunities": []
+  "updated_at": "2026-10-14T12:50:03.866270+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.1395,
+        "url": "https://polymarket.com/event/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Byron Donalds,yes Rick Jackson,yes Jon Ossoff",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026xemkkrjixhmxa6qh"
+      },
+      "prob_diff": 0.3605,
+      "detected_at": "2026-10-14T12:50:03.866270+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.1395,
+        "url": "https://polymarket.com/event/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Byron Donalds,yes Rick Jackson,yes Jon Ossoff",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026xemkkrjixhmxa6qh"
+      },
+      "prob_diff": 0.3605,
+      "detected_at": "2026-10-14T12:50:03.866270+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.1395,
+        "url": "https://polymarket.com/event/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Byron Donalds,yes Rick Jackson,yes Jon Ossoff",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026xemkkrjixhmxa6qh"
+      },
+      "prob_diff": 0.3605,
+      "detected_at": "2026-10-14T12:50:03.866270+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.1395,
+        "url": "https://polymarket.com/event/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Byron Donalds,yes Rick Jackson,yes Jon Ossoff",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026xemkkrjixhmxa6qh"
+      },
+      "prob_diff": 0.3605,
+      "detected_at": "2026-10-14T12:50:03.866270+00:00"
+    }
+  ]
 }
