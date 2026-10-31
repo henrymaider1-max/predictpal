@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-10-31T22:05:51.971287+00:00",
-  "opportunities": []
+  "updated_at": "2026-10-31T22:08:14.814693+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 US Presidential Election?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-us-presidential-election"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Miami,yes Dallas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ewykrwsjhopsuax"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-10-31T22:08:14.814693+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 US Presidential Election?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-us-presidential-election"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Miami,yes Dallas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ewykrwsjhopsuax"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-10-31T22:08:14.814693+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 US Presidential Election?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-us-presidential-election"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Miami,yes Dallas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ewykrwsjhopsuax"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-10-31T22:08:14.814693+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 US Presidential Election?",
+        "prob_yes": 0.0185,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-us-presidential-election"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Miami,yes Dallas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ewykrwsjhopsuax"
+      },
+      "prob_diff": 0.4815,
+      "detected_at": "2026-10-31T22:08:14.814693+00:00"
+    }
+  ]
 }
