@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-11-02T09:24:24.023065+00:00",
-  "opportunities": []
+  "updated_at": "2026-11-02T19:38:48.617566+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0275,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Greg Abbott,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026njvpyy54e4nw4dlc"
+      },
+      "prob_diff": 0.4725,
+      "detected_at": "2026-11-02T19:38:48.617566+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0275,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Greg Abbott,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026njvpyy54e4nw4dlc"
+      },
+      "prob_diff": 0.4725,
+      "detected_at": "2026-11-02T19:38:48.617566+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0275,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Greg Abbott,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026njvpyy54e4nw4dlc"
+      },
+      "prob_diff": 0.4725,
+      "detected_at": "2026-11-02T19:38:48.617566+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will James Talarico win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.0275,
+        "url": "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes Democratic Party,yes Democratic Party,yes Greg Abbott,yes Democratic party,yes Chris Pappas,yes James Talarico",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s2026njvpyy54e4nw4dlc"
+      },
+      "prob_diff": 0.4725,
+      "detected_at": "2026-11-02T19:38:48.617566+00:00"
+    }
+  ]
 }
