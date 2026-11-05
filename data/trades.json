@@ -111,6 +111,20 @@
       "pro_money": false,
       "status": "open",
       "placed_at": "2026-09-23T22:19:08.206373+00:00"
+    },
+    {
+      "id": "trade-9",
+      "market_id": "559707",
+      "platform": "Polymarket",
+      "title": "Will Scott Colom win the 2028 Democratic presidential nomination?",
+      "side": "YES",
+      "market_prob": 0.005,
+      "true_prob_estimate": 0.0793,
+      "edge": 0.0743,
+      "bet_amount": 3404.87,
+      "pro_money": false,
+      "status": "open",
+      "placed_at": "2026-11-05T23:50:12.053674+00:00"
     }
   ]
 }
