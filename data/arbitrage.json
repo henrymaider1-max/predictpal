@@ -1,4 +1,69 @@
 {
-  "updated_at": "2026-11-05T23:44:39.371088+00:00",
-  "opportunities": []
+  "updated_at": "2026-11-05T23:47:03.386474+00:00",
+  "opportunities": [
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Scott Colom win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.005,
+        "url": "https://polymarket.com/event/will-scott-colom-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New Orleans,yes Philadelphia,yes Democratic party,yes Scott Colom",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ukd4cco6y7nqizq"
+      },
+      "prob_diff": 0.495,
+      "detected_at": "2026-11-05T23:47:03.386474+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Scott Colom win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.005,
+        "url": "https://polymarket.com/event/will-scott-colom-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New Orleans,yes Philadelphia,yes Democratic party,yes Scott Colom",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ukd4cco6y7nqizq"
+      },
+      "prob_diff": 0.495,
+      "detected_at": "2026-11-05T23:47:03.386474+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Scott Colom win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.005,
+        "url": "https://polymarket.com/event/will-scott-colom-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New Orleans,yes Philadelphia,yes Democratic party,yes Scott Colom",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ukd4cco6y7nqizq"
+      },
+      "prob_diff": 0.495,
+      "detected_at": "2026-11-05T23:47:03.386474+00:00"
+    },
+    {
+      "market_a": {
+        "platform": "Polymarket",
+        "title": "Will Scott Colom win the 2028 Democratic presidential nomination?",
+        "prob_yes": 0.005,
+        "url": "https://polymarket.com/event/will-scott-colom-win-the-2028-democratic-presidential-nomination"
+      },
+      "market_b": {
+        "platform": "Kalshi",
+        "title": "yes New Orleans,yes Philadelphia,yes Democratic party,yes Scott Colom",
+        "prob_yes": 0.5,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory-s20267ukd4cco6y7nqizq"
+      },
+      "prob_diff": 0.495,
+      "detected_at": "2026-11-05T23:47:03.386474+00:00"
+    }
+  ]
 }
